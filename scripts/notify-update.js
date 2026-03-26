@@ -72,20 +72,24 @@ async function main() {
 
   console.log(`🆕 發現 ${newCourses.length} 個新課程更新！\n`);
 
-  // Build comment body
+  // Build comment body (HTML for proper line breaks in Circle)
   const lines = newCourses.slice(0, 10).map(c => {
     const section = c.section_name ? ` › ${c.section_name}` : '';
     return `• ${c.space_name}${section}：${c.title}`;
   });
 
-  let body = `🆕 ${newCourses.length} 個新課程更新\n\n${lines.join('\n')}`;
+  const today = new Date().toISOString().slice(0, 10);
+  let bodyHtml = `<p>🆕 <strong>${newCourses.length} 個新課程更新</strong>（${today}）</p>`;
+  bodyHtml += `<p>${lines.join('<br>')}</p>`;
 
   if (newCourses.length > 10) {
-    body += `\n\n…還有 ${newCourses.length - 10} 個更新，查看看板了解更多`;
+    bodyHtml += `<p>…還有 ${newCourses.length - 10} 個更新，查看看板了解更多</p>`;
   }
 
+  // Plain text for logging
+  const bodyText = `🆕 ${newCourses.length} 個新課程更新（${today}）\n\n${lines.join('\n')}`;
   console.log('📝 評論內容：');
-  console.log(body);
+  console.log(bodyText);
   console.log('');
 
   // Post comment via Circle V1 API
@@ -98,7 +102,7 @@ async function main() {
     body: JSON.stringify({
       community_id: COMMUNITY_ID,
       post_id: POST_ID,
-      body: body,
+      body: bodyHtml,
     }),
   });
 
