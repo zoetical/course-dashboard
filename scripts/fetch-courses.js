@@ -154,7 +154,7 @@ async function fetchCourseLessons(space, token, since) {
     if (createdAt < since) continue;
 
     const sectionName = sectionMap.get(lesson.section_id);
-    const title = sectionName ? `${sectionName}｜${lesson.name}` : lesson.name;
+    const title = lesson.name;
 
     // Build URL
     let url;
@@ -171,6 +171,7 @@ async function fetchCourseLessons(space, token, since) {
       type: 'lesson',
       space_name: space.name,
       space_id: space.id,
+      section_name: sectionName || null,
     });
   }
 
