@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-03-26T11:25:44.993Z",
-  "lookback_days": 60,
-  "total": 144,
+  "updated_at": "2026-03-26T11:57:55.434Z",
+  "lookback_days": 3650,
+  "total": 373,
   "spaces_monitored": 29,
   "courses": [
     {
@@ -1283,6 +1283,2040 @@
       "space_name": "「初級以上」OpenClaw 打造屬於你自己的 Siri 個人助理（原 ClawdBot/Moltbot）",
       "space_id": 2446989,
       "section_name": "ClawdBot / OpenClaw 入門安裝"
+    },
+    {
+      "title": "2026 Git 快速入門",
+      "url": "https://member.pathunfold.com/c/quick-courses/2026-git",
+      "date": "2026-01-21T14:30:55.057Z",
+      "type": "post",
+      "space_name": "快速課程",
+      "space_id": 2205110
+    },
+    {
+      "title": "小程序账号和工具准备",
+      "url": "https://member.pathunfold.com/c/windows-vibe-coding/sections/869472/lessons/3321743",
+      "date": "2026-01-19T03:18:03.456Z",
+      "type": "lesson",
+      "space_name": "「入門/初級」小程序+Windows系統Vibe Coding專區",
+      "space_id": 2292229,
+      "section_name": "从0开始vibe coding 小程序（准备篇）"
+    },
+    {
+      "title": "热身实战",
+      "url": "https://member.pathunfold.com/c/windows-vibe-coding/sections/869472/lessons/3321734",
+      "date": "2026-01-19T03:08:50.465Z",
+      "type": "lesson",
+      "space_name": "「入門/初級」小程序+Windows系統Vibe Coding專區",
+      "space_id": 2292229,
+      "section_name": "从0开始vibe coding 小程序（准备篇）"
+    },
+    {
+      "title": "域名 101 - Lesson 5: 部署驗收測試 ",
+      "url": "https://member.pathunfold.com/c/deploy-101/sections/873456/lessons/3310219",
+      "date": "2026-01-15T21:07:46.615Z",
+      "type": "lesson",
+      "space_name": "「中高級」部署 101",
+      "space_id": 2430318,
+      "section_name": "部署 101 - 課程介紹 & 域名 101"
+    },
+    {
+      "title": "域名 101 - Lesson 4: DNS 設定教學",
+      "url": "https://member.pathunfold.com/c/deploy-101/sections/873456/lessons/3310218",
+      "date": "2026-01-15T21:07:44.365Z",
+      "type": "lesson",
+      "space_name": "「中高級」部署 101",
+      "space_id": 2430318,
+      "section_name": "部署 101 - 課程介紹 & 域名 101"
+    },
+    {
+      "title": "域名 101 - Lesson 3: Vercel 綁定網域",
+      "url": "https://member.pathunfold.com/c/deploy-101/sections/873456/lessons/3310217",
+      "date": "2026-01-15T21:07:41.922Z",
+      "type": "lesson",
+      "space_name": "「中高級」部署 101",
+      "space_id": 2430318,
+      "section_name": "部署 101 - 課程介紹 & 域名 101"
+    },
+    {
+      "title": "域名 101 - Lesson 2: 網站部署上線",
+      "url": "https://member.pathunfold.com/c/deploy-101/sections/873456/lessons/3310214",
+      "date": "2026-01-15T21:07:30.424Z",
+      "type": "lesson",
+      "space_name": "「中高級」部署 101",
+      "space_id": 2430318,
+      "section_name": "部署 101 - 課程介紹 & 域名 101"
+    },
+    {
+      "title": "域名 101 - Lesson 1: 域名註冊實戰",
+      "url": "https://member.pathunfold.com/c/deploy-101/sections/873456/lessons/3310213",
+      "date": "2026-01-15T21:07:13.930Z",
+      "type": "lesson",
+      "space_name": "「中高級」部署 101",
+      "space_id": 2430318,
+      "section_name": "部署 101 - 課程介紹 & 域名 101"
+    },
+    {
+      "title": "課程介紹",
+      "url": "https://member.pathunfold.com/c/deploy-101/sections/873456/lessons/3310164",
+      "date": "2026-01-15T21:00:26.251Z",
+      "type": "lesson",
+      "space_name": "「中高級」部署 101",
+      "space_id": 2430318,
+      "section_name": "部署 101 - 課程介紹 & 域名 101"
+    },
+    {
+      "title": "Vibe Coding 常用计算机行话",
+      "url": "https://member.pathunfold.com/c/windows-vibe-coding/sections/869472/lessons/3296626",
+      "date": "2026-01-13T02:26:10.480Z",
+      "type": "lesson",
+      "space_name": "「入門/初級」小程序+Windows系統Vibe Coding專區",
+      "space_id": 2292229,
+      "section_name": "从0开始vibe coding 小程序（准备篇）"
+    },
+    {
+      "title": "Trae多agent高级技巧在Vibe Coding中的实战",
+      "url": "https://member.pathunfold.com/c/windows-vibe-coding/sections/817886/lessons/3296469",
+      "date": "2026-01-13T01:43:42.601Z",
+      "type": "lesson",
+      "space_name": "「入門/初級」小程序+Windows系統Vibe Coding專區",
+      "space_id": 2292229,
+      "section_name": "Trae快速领略"
+    },
+    {
+      "title": "Cloudbase介绍",
+      "url": "https://member.pathunfold.com/c/windows-vibe-coding/sections/869472/lessons/3296444",
+      "date": "2026-01-13T01:33:02.652Z",
+      "type": "lesson",
+      "space_name": "「入門/初級」小程序+Windows系統Vibe Coding專區",
+      "space_id": 2292229,
+      "section_name": "从0开始vibe coding 小程序（准备篇）"
+    },
+    {
+      "title": "Trae高级技巧",
+      "url": "https://member.pathunfold.com/c/windows-vibe-coding/sections/817886/lessons/3296440",
+      "date": "2026-01-13T01:28:04.574Z",
+      "type": "lesson",
+      "space_name": "「入門/初級」小程序+Windows系統Vibe Coding專區",
+      "space_id": 2292229,
+      "section_name": "Trae快速领略"
+    },
+    {
+      "title": "驗收與展望",
+      "url": "https://member.pathunfold.com/c/ios-app-101/sections/861677/lessons/3271992",
+      "date": "2026-01-08T03:37:44.487Z",
+      "type": "lesson",
+      "space_name": "「初級以上」iOS app 開發 101",
+      "space_id": 2314452,
+      "section_name": "iOS App 開發 101 - Part 5 - 添加繫統 Reminder 同步支持 + XcodeBuild MCP"
+    },
+    {
+      "title": "將 Spec 轉換為 Code",
+      "url": "https://member.pathunfold.com/c/ios-app-101/sections/861677/lessons/3271982",
+      "date": "2026-01-08T03:35:24.313Z",
+      "type": "lesson",
+      "space_name": "「初級以上」iOS app 開發 101",
+      "space_id": 2314452,
+      "section_name": "iOS App 開發 101 - Part 5 - 添加繫統 Reminder 同步支持 + XcodeBuild MCP"
+    },
+    {
+      "title": "需求規劃與寫 OpenSpec",
+      "url": "https://member.pathunfold.com/c/ios-app-101/sections/861677/lessons/3271937",
+      "date": "2026-01-08T03:33:46.990Z",
+      "type": "lesson",
+      "space_name": "「初級以上」iOS app 開發 101",
+      "space_id": 2314452,
+      "section_name": "iOS App 開發 101 - Part 5 - 添加繫統 Reminder 同步支持 + XcodeBuild MCP"
+    },
+    {
+      "title": "XcodeBuildMCP 安裝",
+      "url": "https://member.pathunfold.com/c/ios-app-101/sections/861677/lessons/3271927",
+      "date": "2026-01-08T03:30:24.964Z",
+      "type": "lesson",
+      "space_name": "「初級以上」iOS app 開發 101",
+      "space_id": 2314452,
+      "section_name": "iOS App 開發 101 - Part 5 - 添加繫統 Reminder 同步支持 + XcodeBuild MCP"
+    },
+    {
+      "title": "驗收實現的 app 功能",
+      "url": "https://member.pathunfold.com/c/ios-app-101/sections/854233/lessons/3245318",
+      "date": "2026-01-01T22:13:11.315Z",
+      "type": "lesson",
+      "space_name": "「初級以上」iOS app 開發 101",
+      "space_id": 2314452,
+      "section_name": "iOS App 開發 - OpenSpec + 新增音訊識別 AI 支援"
+    },
+    {
+      "title": "使用 AI 審核 review 我們的 spec（規範）並且開始構建 app 功能",
+      "url": "https://member.pathunfold.com/c/ios-app-101/sections/854233/lessons/3245308",
+      "date": "2026-01-01T22:07:19.030Z",
+      "type": "lesson",
+      "space_name": "「初級以上」iOS app 開發 101",
+      "space_id": 2314452,
+      "section_name": "iOS App 開發 - OpenSpec + 新增音訊識別 AI 支援"
+    },
+    {
+      "title": "安裝和開始使用 OpenSpec",
+      "url": "https://member.pathunfold.com/c/ios-app-101/sections/854233/lessons/3245304",
+      "date": "2026-01-01T22:05:30.613Z",
+      "type": "lesson",
+      "space_name": "「初級以上」iOS app 開發 101",
+      "space_id": 2314452,
+      "section_name": "iOS App 開發 - OpenSpec + 新增音訊識別 AI 支援"
+    },
+    {
+      "title": "Intro：OpenSpec 讓你可以開發更複雜的應用",
+      "url": "https://member.pathunfold.com/c/ios-app-101/sections/854233/lessons/3245303",
+      "date": "2026-01-01T22:04:06.594Z",
+      "type": "lesson",
+      "space_name": "「初級以上」iOS app 開發 101",
+      "space_id": 2314452,
+      "section_name": "iOS App 開發 - OpenSpec + 新增音訊識別 AI 支援"
+    },
+    {
+      "title": "小白如何用ai在云服务器上快速部署 n8n 服务",
+      "url": "https://member.pathunfold.com/c/quick-courses/n8n",
+      "date": "2025-12-27T12:00:00.000Z",
+      "type": "post",
+      "space_name": "快速課程",
+      "space_id": 2205110
+    },
+    {
+      "title": "「初級⧸中級」Agents Skills 是什麼？怎麼在 Claude Codex ⧸ Codex 裡用？簡單教程教會你",
+      "url": "https://member.pathunfold.com/c/quick-courses/agents-skills-claude-codex-codex",
+      "date": "2025-12-24T04:07:00.154Z",
+      "type": "post",
+      "space_name": "快速課程",
+      "space_id": 2205110
+    },
+    {
+      "title": "Cursor 2.2五个更新！可直接在网页上改设计 | 增加debug 模式",
+      "url": "https://member.pathunfold.com/c/cursor-101-3-web-app-vibe-coding/sections/789827/lessons/3216638",
+      "date": "2025-12-22T19:26:51.488Z",
+      "type": "lesson",
+      "space_name": "「入門/初級」Cursor 101 - 制作3个Web App让你开始Vibe Coding",
+      "space_id": 2200525,
+      "section_name": "Cursor 更新"
+    },
+    {
+      "title": "n8n 2.0 版本更新亮点与工作流思维",
+      "url": "https://member.pathunfold.com/c/quick-courses/n8n-2-0",
+      "date": "2025-12-20T12:08:12.159Z",
+      "type": "post",
+      "space_name": "快速課程",
+      "space_id": 2205110
+    },
+    {
+      "title": "AI生成出來的網站千篇一律怎麼辦？用Design Prompts這招快速生成有個性化的設計 ｜用熟悉的社群網站舉例修改為賽博龐剋 (Cyberpunk)風格｜ 配合 Google Antigravity 快速修改 Design",
+      "url": "https://member.pathunfold.com/c/quick-courses/ai-design-prompts-cyberpunk-google-antigravity-design",
+      "date": "2025-12-18T01:45:14.402Z",
+      "type": "post",
+      "space_name": "快速課程",
+      "space_id": 2205110
+    },
+    {
+      "title": "Part 1 : 你的APP不非得是APP · 第六课",
+      "url": "https://member.pathunfold.com/c/ai-agent-app-app/sections/811242/lessons/3192492",
+      "date": "2025-12-17T06:45:32.606Z",
+      "type": "lesson",
+      "space_name": "「初級以上」打造你的AI Agent 工具箱 (Folder as an APP 直播課)",
+      "space_id": 2246237,
+      "section_name": "006 你的APP不非得是APP · 第六课"
+    },
+    {
+      "title": "课程结尾",
+      "url": "https://member.pathunfold.com/c/ai-1/sections/724608/lessons/3159228",
+      "date": "2025-12-10T07:42:26.718Z",
+      "type": "lesson",
+      "space_name": "「入門/初級」零基础做AI动画: 1分钟短片创作",
+      "space_id": 2223190,
+      "section_name": "canva b-roll制作教程"
+    },
+    {
+      "title": "MCP 簡明教程：在 VSCode 裡安裝",
+      "url": "https://member.pathunfold.com/c/mcp-101-ai/sections/830991/lessons/3157849",
+      "date": "2025-12-10T03:07:07.113Z",
+      "type": "lesson",
+      "space_name": "「入門/初級」MCP 101 - 让你的 AI 可以使用各种工具",
+      "space_id": 2364264,
+      "section_name": "在常见编码工具 IDE 里使用 MCP - Cursor / VSCode"
+    },
+    {
+      "title": "MCP 簡明教程：在 Cursor 裡安裝",
+      "url": "https://member.pathunfold.com/c/mcp-101-ai/sections/830991/lessons/3157846",
+      "date": "2025-12-10T03:05:46.807Z",
+      "type": "lesson",
+      "space_name": "「入門/初級」MCP 101 - 让你的 AI 可以使用各种工具",
+      "space_id": 2364264,
+      "section_name": "在常见编码工具 IDE 里使用 MCP - Cursor / VSCode"
+    },
+    {
+      "title": "6. AI影片的未来？",
+      "url": "https://member.pathunfold.com/c/ai-a8dd2b/sections/827608/lessons/3144751",
+      "date": "2025-12-07T23:10:45.174Z",
+      "type": "lesson",
+      "space_name": "「入門/初級」零門檻用AI做影片：工具與實操案例分享",
+      "space_id": 2364215,
+      "section_name": "6. AI影片的未来？"
+    },
+    {
+      "title": "5.4 配乐&剪辑&音效",
+      "url": "https://member.pathunfold.com/c/ai-a8dd2b/sections/825631/lessons/3137463",
+      "date": "2025-12-05T14:10:10.104Z",
+      "type": "lesson",
+      "space_name": "「入門/初級」零門檻用AI做影片：工具與實操案例分享",
+      "space_id": 2364215,
+      "section_name": "5. 3D广告型影片"
+    },
+    {
+      "title": "5.3 静态图片转为动态",
+      "url": "https://member.pathunfold.com/c/ai-a8dd2b/sections/825631/lessons/3137457",
+      "date": "2025-12-05T14:08:46.846Z",
+      "type": "lesson",
+      "space_name": "「入門/初級」零門檻用AI做影片：工具與實操案例分享",
+      "space_id": 2364215,
+      "section_name": "5. 3D广告型影片"
+    },
+    {
+      "title": "5.2 模仿生成静态图",
+      "url": "https://member.pathunfold.com/c/ai-a8dd2b/sections/825631/lessons/3137433",
+      "date": "2025-12-05T14:02:16.940Z",
+      "type": "lesson",
+      "space_name": "「入門/初級」零門檻用AI做影片：工具與實操案例分享",
+      "space_id": 2364215,
+      "section_name": "5. 3D广告型影片"
+    },
+    {
+      "title": "5.1 制作逻辑&参考案例",
+      "url": "https://member.pathunfold.com/c/ai-a8dd2b/sections/825631/lessons/3137391",
+      "date": "2025-12-05T13:50:34.994Z",
+      "type": "lesson",
+      "space_name": "「入門/初級」零門檻用AI做影片：工具與實操案例分享",
+      "space_id": 2364215,
+      "section_name": "5. 3D广告型影片"
+    },
+    {
+      "title": "4.6 总结",
+      "url": "https://member.pathunfold.com/c/ai-a8dd2b/sections/825580/lessons/3137380",
+      "date": "2025-12-05T13:47:23.194Z",
+      "type": "lesson",
+      "space_name": "「入門/初級」零門檻用AI做影片：工具與實操案例分享",
+      "space_id": 2364215,
+      "section_name": "4.案例2:动画型影片"
+    },
+    {
+      "title": "4.5 剪辑",
+      "url": "https://member.pathunfold.com/c/ai-a8dd2b/sections/825580/lessons/3137342",
+      "date": "2025-12-05T13:40:14.176Z",
+      "type": "lesson",
+      "space_name": "「入門/初級」零門檻用AI做影片：工具與實操案例分享",
+      "space_id": 2364215,
+      "section_name": "4.案例2:动画型影片"
+    },
+    {
+      "title": "4.4 用AI做口播&音乐",
+      "url": "https://member.pathunfold.com/c/ai-a8dd2b/sections/825580/lessons/3137314",
+      "date": "2025-12-05T13:34:50.845Z",
+      "type": "lesson",
+      "space_name": "「入門/初級」零門檻用AI做影片：工具與實操案例分享",
+      "space_id": 2364215,
+      "section_name": "4.案例2:动画型影片"
+    },
+    {
+      "title": "4.3 讲图片转为视频",
+      "url": "https://member.pathunfold.com/c/ai-a8dd2b/sections/825580/lessons/3137292",
+      "date": "2025-12-05T13:29:04.509Z",
+      "type": "lesson",
+      "space_name": "「入門/初級」零門檻用AI做影片：工具與實操案例分享",
+      "space_id": 2364215,
+      "section_name": "4.案例2:动画型影片"
+    },
+    {
+      "title": "4.2 准备静态的图片",
+      "url": "https://member.pathunfold.com/c/ai-a8dd2b/sections/825580/lessons/3137291",
+      "date": "2025-12-05T13:28:41.443Z",
+      "type": "lesson",
+      "space_name": "「入門/初級」零門檻用AI做影片：工具與實操案例分享",
+      "space_id": 2364215,
+      "section_name": "4.案例2:动画型影片"
+    },
+    {
+      "title": "4.1 准备脚本和分镜",
+      "url": "https://member.pathunfold.com/c/ai-a8dd2b/sections/825580/lessons/3137290",
+      "date": "2025-12-05T13:28:27.390Z",
+      "type": "lesson",
+      "space_name": "「入門/初級」零門檻用AI做影片：工具與實操案例分享",
+      "space_id": 2364215,
+      "section_name": "4.案例2:动画型影片"
+    },
+    {
+      "title": "3.3 剪辑&用AI生成配乐",
+      "url": "https://member.pathunfold.com/c/ai-a8dd2b/sections/825530/lessons/3137275",
+      "date": "2025-12-05T13:23:48.493Z",
+      "type": "lesson",
+      "space_name": "「入門/初級」零門檻用AI做影片：工具與實操案例分享",
+      "space_id": 2364215,
+      "section_name": "3.案例1:文字型影片"
+    },
+    {
+      "title": " 3.2 如何用AI生成配音",
+      "url": "https://member.pathunfold.com/c/ai-a8dd2b/sections/825530/lessons/3137153",
+      "date": "2025-12-05T13:07:21.285Z",
+      "type": "lesson",
+      "space_name": "「入門/初級」零門檻用AI做影片：工具與實操案例分享",
+      "space_id": 2364215,
+      "section_name": "3.案例1:文字型影片"
+    },
+    {
+      "title": "3.1 准备文字和视觉内容",
+      "url": "https://member.pathunfold.com/c/ai-a8dd2b/sections/825530/lessons/3137150",
+      "date": "2025-12-05T13:06:08.237Z",
+      "type": "lesson",
+      "space_name": "「入門/初級」零門檻用AI做影片：工具與實操案例分享",
+      "space_id": 2364215,
+      "section_name": "3.案例1:文字型影片"
+    },
+    {
+      "title": "AI工具介绍",
+      "url": "https://member.pathunfold.com/c/ai-a8dd2b/sections/825486/lessons/3137138",
+      "date": "2025-12-05T12:58:30.237Z",
+      "type": "lesson",
+      "space_name": "「入門/初級」零門檻用AI做影片：工具與實操案例分享",
+      "space_id": 2364215,
+      "section_name": "2.AI工具介绍"
+    },
+    {
+      "title": "1.2 为什么要学用AI做影片",
+      "url": "https://member.pathunfold.com/c/ai-a8dd2b/sections/825478/lessons/3137096",
+      "date": "2025-12-05T12:37:24.894Z",
+      "type": "lesson",
+      "space_name": "「入門/初級」零門檻用AI做影片：工具與實操案例分享",
+      "space_id": 2364215,
+      "section_name": "1.课程介绍&目标"
+    },
+    {
+      "title": "1.1 能学到什么？",
+      "url": "https://member.pathunfold.com/c/ai-a8dd2b/sections/825478/lessons/3137093",
+      "date": "2025-12-05T12:32:39.226Z",
+      "type": "lesson",
+      "space_name": "「入門/初級」零門檻用AI做影片：工具與實操案例分享",
+      "space_id": 2364215,
+      "section_name": "1.课程介绍&目标"
+    },
+    {
+      "title": "只需一条Prompt，用Google AI studio做出交互应用",
+      "url": "https://member.pathunfold.com/c/quick-courses/prompt-google-ai-studio",
+      "date": "2025-12-05T00:50:36.289Z",
+      "type": "post",
+      "space_name": "快速課程",
+      "space_id": 2205110
+    },
+    {
+      "title": "MCP 简明教程 - Claude Code 里安装 MCP",
+      "url": "https://member.pathunfold.com/c/mcp-101-ai/sections/822240/lessons/3126021",
+      "date": "2025-12-03T01:28:36.304Z",
+      "type": "lesson",
+      "space_name": "「入門/初級」MCP 101 - 让你的 AI 可以使用各种工具",
+      "space_id": 2364264,
+      "section_name": "在常见 Coding AI 工具里入门使用 MCP"
+    },
+    {
+      "title": "MCP 简明教程 - Gemini CLI 里安装 MCP",
+      "url": "https://member.pathunfold.com/c/mcp-101-ai/sections/822240/lessons/3126017",
+      "date": "2025-12-03T01:28:07.340Z",
+      "type": "lesson",
+      "space_name": "「入門/初級」MCP 101 - 让你的 AI 可以使用各种工具",
+      "space_id": 2364264,
+      "section_name": "在常见 Coding AI 工具里入门使用 MCP"
+    },
+    {
+      "title": "MCP 简明教程 - OpenAI Code CLI 里安装 MCP",
+      "url": "https://member.pathunfold.com/c/mcp-101-ai/sections/822240/lessons/3125936",
+      "date": "2025-12-03T01:08:43.178Z",
+      "type": "lesson",
+      "space_name": "「入門/初級」MCP 101 - 让你的 AI 可以使用各种工具",
+      "space_id": 2364264,
+      "section_name": "在常见 Coding AI 工具里入门使用 MCP"
+    },
+    {
+      "title": "课程介绍",
+      "url": "https://member.pathunfold.com/c/mcp-101-ai/sections/822240/lessons/3125934",
+      "date": "2025-12-03T01:08:34.946Z",
+      "type": "lesson",
+      "space_name": "「入門/初級」MCP 101 - 让你的 AI 可以使用各种工具",
+      "space_id": 2364264,
+      "section_name": "在常见 Coding AI 工具里入门使用 MCP"
+    },
+    {
+      "title": "9. 使用Component Library在本地生成頁面",
+      "url": "https://member.pathunfold.com/c/google-stitch/sections/820275/lessons/3118927",
+      "date": "2025-12-01T20:15:31.567Z",
+      "type": "lesson",
+      "space_name": "「入門/初級」5分鐘用Google Stitch快速設計App",
+      "space_id": 2338225,
+      "section_name": "5分鐘用Google Stitch設計個人blog網站 Part II - 高度客製化流程(設計師流程)"
+    },
+    {
+      "title": "8. 生成Component Library",
+      "url": "https://member.pathunfold.com/c/google-stitch/sections/820275/lessons/3118925",
+      "date": "2025-12-01T20:15:14.132Z",
+      "type": "lesson",
+      "space_name": "「入門/初級」5分鐘用Google Stitch快速設計App",
+      "space_id": 2338225,
+      "section_name": "5分鐘用Google Stitch設計個人blog網站 Part II - 高度客製化流程(設計師流程)"
+    },
+    {
+      "title": "7. 什麼是UI component?",
+      "url": "https://member.pathunfold.com/c/google-stitch/sections/820275/lessons/3118924",
+      "date": "2025-12-01T20:14:47.252Z",
+      "type": "lesson",
+      "space_name": "「入門/初級」5分鐘用Google Stitch快速設計App",
+      "space_id": 2338225,
+      "section_name": "5分鐘用Google Stitch設計個人blog網站 Part II - 高度客製化流程(設計師流程)"
+    },
+    {
+      "title": "6. 設計師工作流介紹",
+      "url": "https://member.pathunfold.com/c/google-stitch/sections/820275/lessons/3118923",
+      "date": "2025-12-01T20:14:11.630Z",
+      "type": "lesson",
+      "space_name": "「入門/初級」5分鐘用Google Stitch快速設計App",
+      "space_id": 2338225,
+      "section_name": "5分鐘用Google Stitch設計個人blog網站 Part II - 高度客製化流程(設計師流程)"
+    },
+    {
+      "title": "Trae快速领略(国产cursor平替版 AI开发工具)",
+      "url": "https://member.pathunfold.com/c/windows-vibe-coding/sections/817886/lessons/3109240",
+      "date": "2025-11-29T04:54:26.115Z",
+      "type": "lesson",
+      "space_name": "「入門/初級」小程序+Windows系統Vibe Coding專區",
+      "space_id": 2292229,
+      "section_name": "Trae快速领略"
+    },
+    {
+      "title": "Lesson 3 - 驗收 iOS app",
+      "url": "https://member.pathunfold.com/c/ios-app-101/sections/812435/lessons/3100566",
+      "date": "2025-11-26T14:18:25.702Z",
+      "type": "lesson",
+      "space_name": "「初級以上」iOS app 開發 101",
+      "space_id": 2314452,
+      "section_name": "iOS App 開發 - 添加圖片識別 AI 支持"
+    },
+    {
+      "title": "Lesson 2 - 构建 AI 识别图片功能",
+      "url": "https://member.pathunfold.com/c/ios-app-101/sections/812435/lessons/3100565",
+      "date": "2025-11-26T14:18:24.661Z",
+      "type": "lesson",
+      "space_name": "「初級以上」iOS app 開發 101",
+      "space_id": 2314452,
+      "section_name": "iOS App 開發 - 添加圖片識別 AI 支持"
+    },
+    {
+      "title": "Lesson 1 - 專案計畫",
+      "url": "https://member.pathunfold.com/c/ios-app-101/sections/812435/lessons/3100561",
+      "date": "2025-11-26T14:16:51.211Z",
+      "type": "lesson",
+      "space_name": "「初級以上」iOS app 開發 101",
+      "space_id": 2314452,
+      "section_name": "iOS App 開發 - 添加圖片識別 AI 支持"
+    },
+    {
+      "title": "5. 如何整合多個頁面檔案",
+      "url": "https://member.pathunfold.com/c/google-stitch/sections/813729/lessons/3093733",
+      "date": "2025-11-24T20:32:29.910Z",
+      "type": "lesson",
+      "space_name": "「入門/初級」5分鐘用Google Stitch快速設計App",
+      "space_id": 2338225,
+      "section_name": "5分鐘用Google Stitch設計個人blog網站 Part I - 快速輸出流程(PM流程)"
+    },
+    {
+      "title": "4. 將 Stitch 導出檔案本地化",
+      "url": "https://member.pathunfold.com/c/google-stitch/sections/813729/lessons/3093727",
+      "date": "2025-11-24T20:31:43.168Z",
+      "type": "lesson",
+      "space_name": "「入門/初級」5分鐘用Google Stitch快速設計App",
+      "space_id": 2338225,
+      "section_name": "5分鐘用Google Stitch設計個人blog網站 Part I - 快速輸出流程(PM流程)"
+    },
+    {
+      "title": "3. 將Google Stitch檔案導入本地",
+      "url": "https://member.pathunfold.com/c/google-stitch/sections/813729/lessons/3093725",
+      "date": "2025-11-24T20:30:57.949Z",
+      "type": "lesson",
+      "space_name": "「入門/初級」5分鐘用Google Stitch快速設計App",
+      "space_id": 2338225,
+      "section_name": "5分鐘用Google Stitch設計個人blog網站 Part I - 快速輸出流程(PM流程)"
+    },
+    {
+      "title": "2. Blog網站計畫-從需求->產品外觀",
+      "url": "https://member.pathunfold.com/c/google-stitch/sections/813729/lessons/3093719",
+      "date": "2025-11-24T20:29:23.188Z",
+      "type": "lesson",
+      "space_name": "「入門/初級」5分鐘用Google Stitch快速設計App",
+      "space_id": 2338225,
+      "section_name": "5分鐘用Google Stitch設計個人blog網站 Part I - 快速輸出流程(PM流程)"
+    },
+    {
+      "title": "1. 兩種Google Stitch工作流介紹",
+      "url": "https://member.pathunfold.com/c/google-stitch/sections/813729/lessons/3093717",
+      "date": "2025-11-24T20:29:16.624Z",
+      "type": "lesson",
+      "space_name": "「入門/初級」5分鐘用Google Stitch快速設計App",
+      "space_id": 2338225,
+      "section_name": "5分鐘用Google Stitch設計個人blog網站 Part I - 快速輸出流程(PM流程)"
+    },
+    {
+      "title": "你的APP不非得是APP · 第五课",
+      "url": "https://member.pathunfold.com/c/ai-agent-app-app/sections/811241/lessons/3084617",
+      "date": "2025-11-22T03:33:01.161Z",
+      "type": "lesson",
+      "space_name": "「初級以上」打造你的AI Agent 工具箱 (Folder as an APP 直播課)",
+      "space_id": 2246237,
+      "section_name": "005 你的APP不非得是APP · 第五课"
+    },
+    {
+      "title": "谷歌Gemini3震撼发布，亮点解读",
+      "url": "https://member.pathunfold.com/c/quick-courses/gemini3",
+      "date": "2025-11-20T00:43:59.487Z",
+      "type": "post",
+      "space_name": "快速課程",
+      "space_id": 2205110
+    },
+    {
+      "title": "Gemini 3 + Google AI Studio 实战：快速制作漂亮 UI 的 AI 动漫头像生成工具",
+      "url": "https://member.pathunfold.com/c/quick-courses/gemini-3-google-ai-studio-ui-ai",
+      "date": "2025-11-20T00:29:00.040Z",
+      "type": "post",
+      "space_name": "快速課程",
+      "space_id": 2205110
+    },
+    {
+      "title": "AI视频生成实操——即梦篇",
+      "url": "https://member.pathunfold.com/c/ai-1/sections/724607/lessons/3053079",
+      "date": "2025-11-16T14:10:17.560Z",
+      "type": "lesson",
+      "space_name": "「入門/初級」零基础做AI动画: 1分钟短片创作",
+      "space_id": 2223190,
+      "section_name": "AI视频生成"
+    },
+    {
+      "title": "5分鐘用Google Stitch設計To-Do List App",
+      "url": "https://member.pathunfold.com/c/google-stitch/sections/802511/lessons/3051888",
+      "date": "2025-11-15T19:49:51.348Z",
+      "type": "lesson",
+      "space_name": "「入門/初級」5分鐘用Google Stitch快速設計App",
+      "space_id": 2338225,
+      "section_name": "5分鐘用Google Stitch快速設計App"
+    },
+    {
+      "title": "Session 2 - Ep 4：自动除错 - 进阶到 AI 自动化测试与侦错",
+      "url": "https://member.pathunfold.com/c/ai-e3bcc2/sections/793175/lessons/3016573",
+      "date": "2025-11-07T23:06:58.278Z",
+      "type": "lesson",
+      "space_name": "「中高級」AI 应用炼金术: 从想法到上架",
+      "space_id": 2222828,
+      "section_name": "App 001 - 第二部分 - AI SDK 重构 - 从零开始构建ChatGPT(打造你自己的AI Agent)"
+    },
+    {
+      "title": "Section 2 - Ep 3：手动除错 - 学习基础除错技能和流程",
+      "url": "https://member.pathunfold.com/c/ai-e3bcc2/sections/793175/lessons/3016564",
+      "date": "2025-11-07T23:05:01.592Z",
+      "type": "lesson",
+      "space_name": "「中高級」AI 应用炼金术: 从想法到上架",
+      "space_id": 2222828,
+      "section_name": "App 001 - 第二部分 - AI SDK 重构 - 从零开始构建ChatGPT(打造你自己的AI Agent)"
+    },
+    {
+      "title": "Section 2 - Ep 2：开始重构 - 使用 AI 工具进行大规模代码重构",
+      "url": "https://member.pathunfold.com/c/ai-e3bcc2/sections/793175/lessons/3016563",
+      "date": "2025-11-07T23:02:49.377Z",
+      "type": "lesson",
+      "space_name": "「中高級」AI 应用炼金术: 从想法到上架",
+      "space_id": 2222828,
+      "section_name": "App 001 - 第二部分 - AI SDK 重构 - 从零开始构建ChatGPT(打造你自己的AI Agent)"
+    },
+    {
+      "title": "Section 2 - Ep 1：回顾与规划 - 确定技术方向，规划迁移至 Vercel AI SDK",
+      "url": "https://member.pathunfold.com/c/ai-e3bcc2/sections/793175/lessons/3016560",
+      "date": "2025-11-07T23:00:20.729Z",
+      "type": "lesson",
+      "space_name": "「中高級」AI 应用炼金术: 从想法到上架",
+      "space_id": 2222828,
+      "section_name": "App 001 - 第二部分 - AI SDK 重构 - 从零开始构建ChatGPT(打造你自己的AI Agent)"
+    },
+    {
+      "title": "Lesson 2 - 添加 Google Gemini 到我們的 Todo list app",
+      "url": "https://member.pathunfold.com/c/ios-app-101/sections/792805/lessons/3013445",
+      "date": "2025-11-07T01:39:14.998Z",
+      "type": "lesson",
+      "space_name": "「初級以上」iOS app 開發 101",
+      "space_id": 2314452,
+      "section_name": "iOS App 開發 - 添加 Gemini AI 支持到我們的 app"
+    },
+    {
+      "title": "Lesson 1 - 知識結構 - 課程概覽 - 站在巨人的肩膀上构建 AI app",
+      "url": "https://member.pathunfold.com/c/ios-app-101/sections/792805/lessons/3013444",
+      "date": "2025-11-07T01:36:57.856Z",
+      "type": "lesson",
+      "space_name": "「初級以上」iOS app 開發 101",
+      "space_id": 2314452,
+      "section_name": "iOS App 開發 - 添加 Gemini AI 支持到我們的 app"
+    },
+    {
+      "title": "不到5份鐘，免費打造 AI 動漫頭像軟體",
+      "url": "https://member.pathunfold.com/c/quick-courses/ai-ed9d1a",
+      "date": "2025-11-05T17:08:46.051Z",
+      "type": "post",
+      "space_name": "快速課程",
+      "space_id": 2205110
+    },
+    {
+      "title": "Cursor 2.0重大更新！可8个agents同时运行。 一起来预览更新并实操做个番茄时钟",
+      "url": "https://member.pathunfold.com/c/cursor-101-3-web-app-vibe-coding/sections/789827/lessons/3001541",
+      "date": "2025-11-04T23:54:59.594Z",
+      "type": "lesson",
+      "space_name": "「入門/初級」Cursor 101 - 制作3个Web App让你开始Vibe Coding",
+      "space_id": 2200525,
+      "section_name": "Cursor 更新"
+    },
+    {
+      "title": "Web 開發如何「指哪打哪」，用 React Grab 精準指令 AI",
+      "url": "https://member.pathunfold.com/c/quick-courses/web-react-grab-ai",
+      "date": "2025-11-03T00:19:29.347Z",
+      "type": "post",
+      "space_name": "快速課程",
+      "space_id": 2205110
+    },
+    {
+      "title": "Lesson 1.5 - 启动 iOS app（模拟器）",
+      "url": "https://member.pathunfold.com/c/ios-app-101/sections/785633/lessons/2990611",
+      "date": "2025-11-02T23:41:46.331Z",
+      "type": "lesson",
+      "space_name": "「初級以上」iOS app 開發 101",
+      "space_id": 2314452,
+      "section_name": "iOS App 開發快速啓動 Kickstart"
+    },
+    {
+      "title": "Lesson 4 - 第一次迭代验收",
+      "url": "https://member.pathunfold.com/c/ios-app-101/sections/785633/lessons/2984949",
+      "date": "2025-10-31T22:28:54.307Z",
+      "type": "lesson",
+      "space_name": "「初級以上」iOS app 開發 101",
+      "space_id": 2314452,
+      "section_name": "iOS App 開發快速啓動 Kickstart"
+    },
+    {
+      "title": "Lesson 3 - 项目初始化",
+      "url": "https://member.pathunfold.com/c/ios-app-101/sections/785633/lessons/2984947",
+      "date": "2025-10-31T22:28:41.341Z",
+      "type": "lesson",
+      "space_name": "「初級以上」iOS app 開發 101",
+      "space_id": 2314452,
+      "section_name": "iOS App 開發快速啓動 Kickstart"
+    },
+    {
+      "title": "Lesson 2 - 了解 iOS 开发常见编辑器",
+      "url": "https://member.pathunfold.com/c/ios-app-101/sections/785633/lessons/2984946",
+      "date": "2025-10-31T22:28:25.776Z",
+      "type": "lesson",
+      "space_name": "「初級以上」iOS app 開發 101",
+      "space_id": 2314452,
+      "section_name": "iOS App 開發快速啓動 Kickstart"
+    },
+    {
+      "title": "Lesson 1 - 知识结构 - 课程概览",
+      "url": "https://member.pathunfold.com/c/ios-app-101/sections/785633/lessons/2984945",
+      "date": "2025-10-31T22:27:58.659Z",
+      "type": "lesson",
+      "space_name": "「初級以上」iOS app 開發 101",
+      "space_id": 2314452,
+      "section_name": "iOS App 開發快速啓動 Kickstart"
+    },
+    {
+      "title": "9.4 克隆supabase dev到prod完成部署上线",
+      "url": "https://member.pathunfold.com/c/cursor-101-3-web-app-vibe-coding/sections/728970/lessons/2966309",
+      "date": "2025-10-29T02:40:49.393Z",
+      "type": "lesson",
+      "space_name": "「入門/初級」Cursor 101 - 制作3个Web App让你开始Vibe Coding",
+      "space_id": 2200525,
+      "section_name": "从登录到支付：用系统方法打造商业化 Web 应用 - 博客网站搭建"
+    },
+    {
+      "title": "9.3 创建生产环境的supabase&配置生产环境stripe",
+      "url": "https://member.pathunfold.com/c/cursor-101-3-web-app-vibe-coding/sections/728970/lessons/2966308",
+      "date": "2025-10-29T02:40:43.861Z",
+      "type": "lesson",
+      "space_name": "「入門/初級」Cursor 101 - 制作3个Web App让你开始Vibe Coding",
+      "space_id": 2200525,
+      "section_name": "从登录到支付：用系统方法打造商业化 Web 应用 - 博客网站搭建"
+    },
+    {
+      "title": "9.2 dev分支合并到main分支&设置环境变量&自定义域名",
+      "url": "https://member.pathunfold.com/c/cursor-101-3-web-app-vibe-coding/sections/728970/lessons/2966307",
+      "date": "2025-10-29T02:40:39.913Z",
+      "type": "lesson",
+      "space_name": "「入門/初級」Cursor 101 - 制作3个Web App让你开始Vibe Coding",
+      "space_id": 2200525,
+      "section_name": "从登录到支付：用系统方法打造商业化 Web 应用 - 博客网站搭建"
+    },
+    {
+      "title": "9.1 Vercel部署流程和准备工作",
+      "url": "https://member.pathunfold.com/c/cursor-101-3-web-app-vibe-coding/sections/728970/lessons/2966306",
+      "date": "2025-10-29T02:40:36.217Z",
+      "type": "lesson",
+      "space_name": "「入門/初級」Cursor 101 - 制作3个Web App让你开始Vibe Coding",
+      "space_id": 2200525,
+      "section_name": "从登录到支付：用系统方法打造商业化 Web 应用 - 博客网站搭建"
+    },
+    {
+      "title": "8.4 Stripe测试debug&创建customer portal管理订阅",
+      "url": "https://member.pathunfold.com/c/cursor-101-3-web-app-vibe-coding/sections/728970/lessons/2966295",
+      "date": "2025-10-29T02:37:51.397Z",
+      "type": "lesson",
+      "space_name": "「入門/初級」Cursor 101 - 制作3个Web App让你开始Vibe Coding",
+      "space_id": 2200525,
+      "section_name": "从登录到支付：用系统方法打造商业化 Web 应用 - 博客网站搭建"
+    },
+    {
+      "title": "8.3 创建stripe webhook,实现supabase和stripe通信",
+      "url": "https://member.pathunfold.com/c/cursor-101-3-web-app-vibe-coding/sections/728970/lessons/2966294",
+      "date": "2025-10-29T02:37:48.498Z",
+      "type": "lesson",
+      "space_name": "「入門/初級」Cursor 101 - 制作3个Web App让你开始Vibe Coding",
+      "space_id": 2200525,
+      "section_name": "从登录到支付：用系统方法打造商业化 Web 应用 - 博客网站搭建"
+    },
+    {
+      "title": "8.2 Stripe integration ",
+      "url": "https://member.pathunfold.com/c/cursor-101-3-web-app-vibe-coding/sections/728970/lessons/2966292",
+      "date": "2025-10-29T02:37:39.842Z",
+      "type": "lesson",
+      "space_name": "「入門/初級」Cursor 101 - 制作3个Web App让你开始Vibe Coding",
+      "space_id": 2200525,
+      "section_name": "从登录到支付：用系统方法打造商业化 Web 应用 - 博客网站搭建"
+    },
+    {
+      "title": "8.1 Stripe创建产品&实现文档",
+      "url": "https://member.pathunfold.com/c/cursor-101-3-web-app-vibe-coding/sections/728970/lessons/2966291",
+      "date": "2025-10-29T02:37:36.537Z",
+      "type": "lesson",
+      "space_name": "「入門/初級」Cursor 101 - 制作3个Web App让你开始Vibe Coding",
+      "space_id": 2200525,
+      "section_name": "从登录到支付：用系统方法打造商业化 Web 应用 - 博客网站搭建"
+    },
+    {
+      "title": "7.搭建公开博客列表页",
+      "url": "https://member.pathunfold.com/c/cursor-101-3-web-app-vibe-coding/sections/728970/lessons/2966289",
+      "date": "2025-10-29T02:37:33.317Z",
+      "type": "lesson",
+      "space_name": "「入門/初級」Cursor 101 - 制作3个Web App让你开始Vibe Coding",
+      "space_id": 2200525,
+      "section_name": "从登录到支付：用系统方法打造商业化 Web 应用 - 博客网站搭建"
+    },
+    {
+      "title": "6.4 route test & debug",
+      "url": "https://member.pathunfold.com/c/cursor-101-3-web-app-vibe-coding/sections/728970/lessons/2966288",
+      "date": "2025-10-29T02:37:30.013Z",
+      "type": "lesson",
+      "space_name": "「入門/初級」Cursor 101 - 制作3个Web App让你开始Vibe Coding",
+      "space_id": 2200525,
+      "section_name": "从登录到支付：用系统方法打造商业化 Web 应用 - 博客网站搭建"
+    },
+    {
+      "title": "6.3 上传图片功能 Supabase storage数据库&dropzone 组件",
+      "url": "https://member.pathunfold.com/c/cursor-101-3-web-app-vibe-coding/sections/728970/lessons/2966287",
+      "date": "2025-10-29T02:37:26.760Z",
+      "type": "lesson",
+      "space_name": "「入門/初級」Cursor 101 - 制作3个Web App让你开始Vibe Coding",
+      "space_id": 2200525,
+      "section_name": "从登录到支付：用系统方法打造商业化 Web 应用 - 博客网站搭建"
+    },
+    {
+      "title": "6.2 增删查改debug和测试",
+      "url": "https://member.pathunfold.com/c/cursor-101-3-web-app-vibe-coding/sections/728970/lessons/2966285",
+      "date": "2025-10-29T02:37:23.269Z",
+      "type": "lesson",
+      "space_name": "「入門/初級」Cursor 101 - 制作3个Web App让你开始Vibe Coding",
+      "space_id": 2200525,
+      "section_name": "从登录到支付：用系统方法打造商业化 Web 应用 - 博客网站搭建"
+    },
+    {
+      "title": "6.1 核心功能dashboard搭建架构和数据库",
+      "url": "https://member.pathunfold.com/c/cursor-101-3-web-app-vibe-coding/sections/728970/lessons/2966284",
+      "date": "2025-10-29T02:37:19.457Z",
+      "type": "lesson",
+      "space_name": "「入門/初級」Cursor 101 - 制作3个Web App让你开始Vibe Coding",
+      "space_id": 2200525,
+      "section_name": "从登录到支付：用系统方法打造商业化 Web 应用 - 博客网站搭建"
+    },
+    {
+      "title": "5.2 用v0迅速做出landing page并自定义样式",
+      "url": "https://member.pathunfold.com/c/cursor-101-3-web-app-vibe-coding/sections/728970/lessons/2966283",
+      "date": "2025-10-29T02:37:16.429Z",
+      "type": "lesson",
+      "space_name": "「入門/初級」Cursor 101 - 制作3个Web App让你开始Vibe Coding",
+      "space_id": 2200525,
+      "section_name": "从登录到支付：用系统方法打造商业化 Web 应用 - 博客网站搭建"
+    },
+    {
+      "title": "5.1 了解react组件化框架&自定义layout",
+      "url": "https://member.pathunfold.com/c/cursor-101-3-web-app-vibe-coding/sections/728970/lessons/2966282",
+      "date": "2025-10-29T02:37:14.738Z",
+      "type": "lesson",
+      "space_name": "「入門/初級」Cursor 101 - 制作3个Web App让你开始Vibe Coding",
+      "space_id": 2200525,
+      "section_name": "从登录到支付：用系统方法打造商业化 Web 应用 - 博客网站搭建"
+    },
+    {
+      "title": "4.4 git branch日常开发分支",
+      "url": "https://member.pathunfold.com/c/cursor-101-3-web-app-vibe-coding/sections/728970/lessons/2966281",
+      "date": "2025-10-29T02:37:10.327Z",
+      "type": "lesson",
+      "space_name": "「入門/初級」Cursor 101 - 制作3个Web App让你开始Vibe Coding",
+      "space_id": 2200525,
+      "section_name": "从登录到支付：用系统方法打造商业化 Web 应用 - 博客网站搭建"
+    },
+    {
+      "title": "4.3 安装Supabase CLI & 创建Profile table",
+      "url": "https://member.pathunfold.com/c/cursor-101-3-web-app-vibe-coding/sections/728970/lessons/2966280",
+      "date": "2025-10-29T02:37:06.978Z",
+      "type": "lesson",
+      "space_name": "「入門/初級」Cursor 101 - 制作3个Web App让你开始Vibe Coding",
+      "space_id": 2200525,
+      "section_name": "从登录到支付：用系统方法打造商业化 Web 应用 - 博客网站搭建"
+    },
+    {
+      "title": "4.2 Supabase登陆身份认证系统搭建",
+      "url": "https://member.pathunfold.com/c/cursor-101-3-web-app-vibe-coding/sections/728970/lessons/2966279",
+      "date": "2025-10-29T02:37:04.734Z",
+      "type": "lesson",
+      "space_name": "「入門/初級」Cursor 101 - 制作3个Web App让你开始Vibe Coding",
+      "space_id": 2200525,
+      "section_name": "从登录到支付：用系统方法打造商业化 Web 应用 - 博客网站搭建"
+    },
+    {
+      "title": "4.1 Supabase setup & MCP连接",
+      "url": "https://member.pathunfold.com/c/cursor-101-3-web-app-vibe-coding/sections/728970/lessons/2966278",
+      "date": "2025-10-29T02:37:02.458Z",
+      "type": "lesson",
+      "space_name": "「入門/初級」Cursor 101 - 制作3个Web App让你开始Vibe Coding",
+      "space_id": 2200525,
+      "section_name": "从登录到支付：用系统方法打造商业化 Web 应用 - 博客网站搭建"
+    },
+    {
+      "title": "3. UI组件库 shadcn",
+      "url": "https://member.pathunfold.com/c/cursor-101-3-web-app-vibe-coding/sections/728970/lessons/2966277",
+      "date": "2025-10-29T02:36:36.809Z",
+      "type": "lesson",
+      "space_name": "「入門/初級」Cursor 101 - 制作3个Web App让你开始Vibe Coding",
+      "space_id": 2200525,
+      "section_name": "从登录到支付：用系统方法打造商业化 Web 应用 - 博客网站搭建"
+    },
+    {
+      "title": "2.2 MCP&Cursor rule",
+      "url": "https://member.pathunfold.com/c/cursor-101-3-web-app-vibe-coding/sections/728970/lessons/2966271",
+      "date": "2025-10-29T02:32:26.703Z",
+      "type": "lesson",
+      "space_name": "「入門/初級」Cursor 101 - 制作3个Web App让你开始Vibe Coding",
+      "space_id": 2200525,
+      "section_name": "从登录到支付：用系统方法打造商业化 Web 应用 - 博客网站搭建"
+    },
+    {
+      "title": "2.1 Github setup & PRD",
+      "url": "https://member.pathunfold.com/c/cursor-101-3-web-app-vibe-coding/sections/728970/lessons/2966231",
+      "date": "2025-10-29T02:24:03.471Z",
+      "type": "lesson",
+      "space_name": "「入門/初級」Cursor 101 - 制作3个Web App让你开始Vibe Coding",
+      "space_id": 2200525,
+      "section_name": "从登录到支付：用系统方法打造商业化 Web 应用 - 博客网站搭建"
+    },
+    {
+      "title": "1.项目架构+Next js下载安装 ",
+      "url": "https://member.pathunfold.com/c/cursor-101-3-web-app-vibe-coding/sections/728970/lessons/2966217",
+      "date": "2025-10-29T02:05:57.714Z",
+      "type": "lesson",
+      "space_name": "「入門/初級」Cursor 101 - 制作3个Web App让你开始Vibe Coding",
+      "space_id": 2200525,
+      "section_name": "从登录到支付：用系统方法打造商业化 Web 应用 - 博客网站搭建"
+    },
+    {
+      "title": "你的APP不非得是APP · 第四课",
+      "url": "https://member.pathunfold.com/c/ai-agent-app-app/sections/811240/lessons/2955033",
+      "date": "2025-10-27T02:43:21.226Z",
+      "type": "lesson",
+      "space_name": "「初級以上」打造你的AI Agent 工具箱 (Folder as an APP 直播課)",
+      "space_id": 2246237,
+      "section_name": "004 你的APP不非得是APP · 第四课"
+    },
+    {
+      "title": "AI视频提示词技巧02——图像生视频",
+      "url": "https://member.pathunfold.com/c/ai-1/sections/724607/lessons/2953455",
+      "date": "2025-10-26T15:33:09.852Z",
+      "type": "lesson",
+      "space_name": "「入門/初級」零基础做AI动画: 1分钟短片创作",
+      "space_id": 2223190,
+      "section_name": "AI视频生成"
+    },
+    {
+      "title": "AI视频生成——工作流介绍",
+      "url": "https://member.pathunfold.com/c/ai-1/sections/724607/lessons/2953193",
+      "date": "2025-10-26T12:31:31.385Z",
+      "type": "lesson",
+      "space_name": "「入門/初級」零基础做AI动画: 1分钟短片创作",
+      "space_id": 2223190,
+      "section_name": "AI视频生成"
+    },
+    {
+      "title": "錯誤監控與人機協作：Error Trigger + Human in the Loop",
+      "url": "https://member.pathunfold.com/c/n8n/sections/777861/lessons/2950855",
+      "date": "2025-10-25T13:44:51.839Z",
+      "type": "lesson",
+      "space_name": "「入門/初級」n8n 實戰",
+      "space_id": 2175701,
+      "section_name": "n8n AI 知識庫實戰 從聊天原型到錯誤防線"
+    },
+    {
+      "title": "Evaluation 工作流：批量評分與優化 AI 產出",
+      "url": "https://member.pathunfold.com/c/n8n/sections/777861/lessons/2950854",
+      "date": "2025-10-25T13:44:50.088Z",
+      "type": "lesson",
+      "space_name": "「入門/初級」n8n 實戰",
+      "space_id": 2175701,
+      "section_name": "n8n AI 知識庫實戰 從聊天原型到錯誤防線"
+    },
+    {
+      "title": "AI 輸出審核防線：OpenAI + IF Node 安全守門",
+      "url": "https://member.pathunfold.com/c/n8n/sections/777861/lessons/2950853",
+      "date": "2025-10-25T13:44:47.895Z",
+      "type": "lesson",
+      "space_name": "「入門/初級」n8n 實戰",
+      "space_id": 2175701,
+      "section_name": "n8n AI 知識庫實戰 從聊天原型到錯誤防線"
+    },
+    {
+      "title": "從零到一：n8n × Pinecone Assistant 客製化聊天機器人",
+      "url": "https://member.pathunfold.com/c/n8n/sections/777861/lessons/2950852",
+      "date": "2025-10-25T13:44:46.697Z",
+      "type": "lesson",
+      "space_name": "「入門/初級」n8n 實戰",
+      "space_id": 2175701,
+      "section_name": "n8n AI 知識庫實戰 從聊天原型到錯誤防線"
+    },
+    {
+      "title": "概覽｜打造個人網站知識庫 ChatBot 的全景路線圖",
+      "url": "https://member.pathunfold.com/c/n8n/sections/777861/lessons/2950850",
+      "date": "2025-10-25T13:44:44.878Z",
+      "type": "lesson",
+      "space_name": "「入門/初級」n8n 實戰",
+      "space_id": 2175701,
+      "section_name": "n8n AI 知識庫實戰 從聊天原型到錯誤防線"
+    },
+    {
+      "title": "Windows系統上安裝Gemini CLI",
+      "url": "https://member.pathunfold.com/c/claude-code/sections/777012/lessons/2947753",
+      "date": "2025-10-24T14:41:23.609Z",
+      "type": "lesson",
+      "space_name": "「入門」Claude Code · Gemini CLI 101 · Codex CLI",
+      "space_id": 2175702,
+      "section_name": "【Windows 系統】安裝 Claude code/ Gemini CLI/ Codex CLI（大陸友好）"
+    },
+    {
+      "title": "Windows系統上安裝Codex CLI",
+      "url": "https://member.pathunfold.com/c/claude-code/sections/777012/lessons/2947750",
+      "date": "2025-10-24T14:41:06.163Z",
+      "type": "lesson",
+      "space_name": "「入門」Claude Code · Gemini CLI 101 · Codex CLI",
+      "space_id": 2175702,
+      "section_name": "【Windows 系統】安裝 Claude code/ Gemini CLI/ Codex CLI（大陸友好）"
+    },
+    {
+      "title": "準備工作：Windows系統上安裝Node.js",
+      "url": "https://member.pathunfold.com/c/claude-code/sections/777012/lessons/2947743",
+      "date": "2025-10-24T14:40:31.471Z",
+      "type": "lesson",
+      "space_name": "「入門」Claude Code · Gemini CLI 101 · Codex CLI",
+      "space_id": 2175702,
+      "section_name": "【Windows 系統】安裝 Claude code/ Gemini CLI/ Codex CLI（大陸友好）"
+    },
+    {
+      "title": "Windows系統上安裝Claude code",
+      "url": "https://member.pathunfold.com/c/claude-code/sections/777012/lessons/2947740",
+      "date": "2025-10-24T14:40:12.909Z",
+      "type": "lesson",
+      "space_name": "「入門」Claude Code · Gemini CLI 101 · Codex CLI",
+      "space_id": 2175702,
+      "section_name": "【Windows 系統】安裝 Claude code/ Gemini CLI/ Codex CLI（大陸友好）"
+    },
+    {
+      "title": "A-Roll制作的方法和技巧",
+      "url": "https://member.pathunfold.com/c/ai-1/sections/724607/lessons/2925837",
+      "date": "2025-10-21T01:58:53.483Z",
+      "type": "lesson",
+      "space_name": "「入門/初級」零基础做AI动画: 1分钟短片创作",
+      "space_id": 2223190,
+      "section_name": "AI视频生成"
+    },
+    {
+      "title": "07-接入 License Key 和支付繫統，實現商業化",
+      "url": "https://member.pathunfold.com/c/ai-e3bcc2/sections/724439/lessons/2923529",
+      "date": "2025-10-20T18:05:41.203Z",
+      "type": "lesson",
+      "space_name": "「中高級」AI 应用炼金术: 从想法到上架",
+      "space_id": 2222828,
+      "section_name": "App 002 - 搭建属于自己的AI浏览器"
+    },
+    {
+      "title": "06-實現導出到 Folder（資料夾/文件夾），可結合 Folder as app 使用",
+      "url": "https://member.pathunfold.com/c/ai-e3bcc2/sections/724439/lessons/2923527",
+      "date": "2025-10-20T18:04:36.672Z",
+      "type": "lesson",
+      "space_name": "「中高級」AI 应用炼金术: 从想法到上架",
+      "space_id": 2222828,
+      "section_name": "App 002 - 搭建属于自己的AI浏览器"
+    },
+    {
+      "title": "課程示範的 n8n 工作流程成品",
+      "url": "https://member.pathunfold.com/c/n8n/sections/761233/lessons/2917011",
+      "date": "2025-10-18T23:00:35.312Z",
+      "type": "lesson",
+      "space_name": "「入門/初級」n8n 實戰",
+      "space_id": 2175701,
+      "section_name": "課程總覽——只需要選擇一項部署方式"
+    },
+    {
+      "title": "在Windows系统中安装Codex CLI（大陆友好版）",
+      "url": "https://member.pathunfold.com/c/quick-courses/windows-codex-cli",
+      "date": "2025-10-18T09:17:05.920Z",
+      "type": "post",
+      "space_name": "快速課程",
+      "space_id": 2205110
+    },
+    {
+      "title": "圖像營養洞察師：食物識別、報告與回傳",
+      "url": "https://member.pathunfold.com/c/n8n/sections/768358/lessons/2913132",
+      "date": "2025-10-18T02:26:57.134Z",
+      "type": "lesson",
+      "space_name": "「入門/初級」n8n 實戰",
+      "space_id": 2175701,
+      "section_name": "n8n + Telegram 打造屬於你的 AI 個人資訊中心"
+    },
+    {
+      "title": "語音靈光筆記師﻿：語音轉寫、分類與即時回應",
+      "url": "https://member.pathunfold.com/c/n8n/sections/768358/lessons/2913131",
+      "date": "2025-10-18T02:26:54.020Z",
+      "type": "lesson",
+      "space_name": "「入門/初級」n8n 實戰",
+      "space_id": 2175701,
+      "section_name": "n8n + Telegram 打造屬於你的 AI 個人資訊中心"
+    },
+    {
+      "title": "影片速讀 AI 摘要師：從字幕抓取到報告回傳",
+      "url": "https://member.pathunfold.com/c/n8n/sections/768358/lessons/2913130",
+      "date": "2025-10-18T02:26:51.307Z",
+      "type": "lesson",
+      "space_name": "「入門/初級」n8n 實戰",
+      "space_id": 2175701,
+      "section_name": "n8n + Telegram 打造屬於你的 AI 個人資訊中心"
+    },
+    {
+      "title": "連線 Telegram 並實現多訊息型別分類處理",
+      "url": "https://member.pathunfold.com/c/n8n/sections/768358/lessons/2913129",
+      "date": "2025-10-18T02:26:49.535Z",
+      "type": "lesson",
+      "space_name": "「入門/初級」n8n 實戰",
+      "space_id": 2175701,
+      "section_name": "n8n + Telegram 打造屬於你的 AI 個人資訊中心"
+    },
+    {
+      "title": "導覽：打造個人資訊中樞藍圖",
+      "url": "https://member.pathunfold.com/c/n8n/sections/768358/lessons/2913128",
+      "date": "2025-10-18T02:26:47.443Z",
+      "type": "lesson",
+      "space_name": "「入門/初級」n8n 實戰",
+      "space_id": 2175701,
+      "section_name": "n8n + Telegram 打造屬於你的 AI 個人資訊中心"
+    },
+    {
+      "title": "推薦：官方雲端部署方案",
+      "url": "https://member.pathunfold.com/c/n8n/sections/761233/lessons/2885998",
+      "date": "2025-10-13T09:37:20.805Z",
+      "type": "lesson",
+      "space_name": "「入門/初級」n8n 實戰",
+      "space_id": 2175701,
+      "section_name": "課程總覽——只需要選擇一項部署方式"
+    },
+    {
+      "title": "課程航向總覽",
+      "url": "https://member.pathunfold.com/c/n8n/sections/761233/lessons/2885997",
+      "date": "2025-10-13T09:37:06.543Z",
+      "type": "lesson",
+      "space_name": "「入門/初級」n8n 實戰",
+      "space_id": 2175701,
+      "section_name": "課程總覽——只需要選擇一項部署方式"
+    },
+    {
+      "title": "AI Agent 結構化輸出：轉錄・文案・封面",
+      "url": "https://member.pathunfold.com/c/n8n/sections/761187/lessons/2885972",
+      "date": "2025-10-13T09:28:28.754Z",
+      "type": "lesson",
+      "space_name": "「入門/初級」n8n 實戰",
+      "space_id": 2175701,
+      "section_name": "n8n HTTP Request 節點實戰 — 打造 API 內容產線"
+    },
+    {
+      "title": "播客音訊上傳 → Auphonic 音量優化 → 自動備份",
+      "url": "https://member.pathunfold.com/c/n8n/sections/761187/lessons/2885971",
+      "date": "2025-10-13T09:28:27.457Z",
+      "type": "lesson",
+      "space_name": "「入門/初級」n8n 實戰",
+      "space_id": 2175701,
+      "section_name": "n8n HTTP Request 節點實戰 — 打造 API 內容產線"
+    },
+    {
+      "title": "HTTP Request 入門：網站地圖抓取（GET／POST）",
+      "url": "https://member.pathunfold.com/c/n8n/sections/761187/lessons/2885970",
+      "date": "2025-10-13T09:28:24.333Z",
+      "type": "lesson",
+      "space_name": "「入門/初級」n8n 實戰",
+      "space_id": 2175701,
+      "section_name": "n8n HTTP Request 節點實戰 — 打造 API 內容產線"
+    },
+    {
+      "title": "總覽｜HTTP Request 節點的使用心法",
+      "url": "https://member.pathunfold.com/c/n8n/sections/761187/lessons/2885844",
+      "date": "2025-10-13T08:29:06.113Z",
+      "type": "lesson",
+      "space_name": "「入門/初級」n8n 實戰",
+      "space_id": 2175701,
+      "section_name": "n8n HTTP Request 節點實戰 — 打造 API 內容產線"
+    },
+    {
+      "title": "你的APP不非得是APP · 第三课",
+      "url": "https://member.pathunfold.com/c/ai-agent-app-app/sections/811239/lessons/2881926",
+      "date": "2025-10-11T02:28:06.638Z",
+      "type": "lesson",
+      "space_name": "「初級以上」打造你的AI Agent 工具箱 (Folder as an APP 直播課)",
+      "space_id": 2246237,
+      "section_name": "003 你的APP不非得是APP · 第三课"
+    },
+    {
+      "title": "重要的事情做4遍。颠覆传统工作流：用OpenAI Codex实践\"树状开发\"，开启从设计到修复Bug的全流程革命。效率提升 4 的 N 次方倍（OpenAI 已经为此计费，请小心使用）",
+      "url": "https://member.pathunfold.com/c/quick-courses/openai-codex-bug-4-n",
+      "date": "2025-10-08T18:58:24.945Z",
+      "type": "post",
+      "space_name": "快速課程",
+      "space_id": 2205110
+    },
+    {
+      "title": "4 洞察頁面設計作業",
+      "url": "https://member.pathunfold.com/c/design-x-ai/sections/724695/lessons/2871750",
+      "date": "2025-10-08T16:52:10.793Z",
+      "type": "lesson",
+      "space_name": "「初級以上」AI x UI/UX Vibe Coding介面設計實戰",
+      "space_id": 2223143,
+      "section_name": "模組二：從使用者旅程出發的App互動設計"
+    },
+    {
+      "title": "4 - 講重點就好—洞察頁面設計",
+      "url": "https://member.pathunfold.com/c/design-x-ai/sections/724695/lessons/2871747",
+      "date": "2025-10-08T16:51:52.637Z",
+      "type": "lesson",
+      "space_name": "「初級以上」AI x UI/UX Vibe Coding介面設計實戰",
+      "space_id": 2223143,
+      "section_name": "模組二：從使用者旅程出發的App互動設計"
+    },
+    {
+      "title": "3 清單及表格設計作業",
+      "url": "https://member.pathunfold.com/c/design-x-ai/sections/724695/lessons/2871737",
+      "date": "2025-10-08T16:50:32.761Z",
+      "type": "lesson",
+      "space_name": "「初級以上」AI x UI/UX Vibe Coding介面設計實戰",
+      "space_id": 2223143,
+      "section_name": "模組二：從使用者旅程出發的App互動設計"
+    },
+    {
+      "title": "3 - 世界上所有的 app 都有清單",
+      "url": "https://member.pathunfold.com/c/design-x-ai/sections/724695/lessons/2871736",
+      "date": "2025-10-08T16:50:10.553Z",
+      "type": "lesson",
+      "space_name": "「初級以上」AI x UI/UX Vibe Coding介面設計實戰",
+      "space_id": 2223143,
+      "section_name": "模組二：從使用者旅程出發的App互動設計"
+    },
+    {
+      "title": "2 首頁及導覽設計作業",
+      "url": "https://member.pathunfold.com/c/design-x-ai/sections/724695/lessons/2871734",
+      "date": "2025-10-08T16:49:35.349Z",
+      "type": "lesson",
+      "space_name": "「初級以上」AI x UI/UX Vibe Coding介面設計實戰",
+      "space_id": 2223143,
+      "section_name": "模組二：從使用者旅程出發的App互動設計"
+    },
+    {
+      "title": "2 - 讓你不迷路的UI：首頁與導覽設計。",
+      "url": "https://member.pathunfold.com/c/design-x-ai/sections/724695/lessons/2871727",
+      "date": "2025-10-08T16:48:56.095Z",
+      "type": "lesson",
+      "space_name": "「初級以上」AI x UI/UX Vibe Coding介面設計實戰",
+      "space_id": 2223143,
+      "section_name": "模組二：從使用者旅程出發的App互動設計"
+    },
+    {
+      "title": "1 User Flow作業",
+      "url": "https://member.pathunfold.com/c/design-x-ai/sections/724695/lessons/2869579",
+      "date": "2025-10-08T08:03:06.675Z",
+      "type": "lesson",
+      "space_name": "「初級以上」AI x UI/UX Vibe Coding介面設計實戰",
+      "space_id": 2223143,
+      "section_name": "模組二：從使用者旅程出發的App互動設計"
+    },
+    {
+      "title": "1.3 - Design Pattern：全世界通用的介面樣版",
+      "url": "https://member.pathunfold.com/c/design-x-ai/sections/724695/lessons/2869574",
+      "date": "2025-10-08T08:00:52.940Z",
+      "type": "lesson",
+      "space_name": "「初級以上」AI x UI/UX Vibe Coding介面設計實戰",
+      "space_id": 2223143,
+      "section_name": "模組二：從使用者旅程出發的App互動設計"
+    },
+    {
+      "title": "1.2 - User Flow：用流程圖定義app的使用方式",
+      "url": "https://member.pathunfold.com/c/design-x-ai/sections/724695/lessons/2869528",
+      "date": "2025-10-08T07:58:52.015Z",
+      "type": "lesson",
+      "space_name": "「初級以上」AI x UI/UX Vibe Coding介面設計實戰",
+      "space_id": 2223143,
+      "section_name": "模組二：從使用者旅程出發的App互動設計"
+    },
+    {
+      "title": "1.1 - 介面的互動設計流程",
+      "url": "https://member.pathunfold.com/c/design-x-ai/sections/724695/lessons/2869527",
+      "date": "2025-10-08T07:57:25.834Z",
+      "type": "lesson",
+      "space_name": "「初級以上」AI x UI/UX Vibe Coding介面設計實戰",
+      "space_id": 2223143,
+      "section_name": "模組二：從使用者旅程出發的App互動設計"
+    },
+    {
+      "title": "模組簡介",
+      "url": "https://member.pathunfold.com/c/design-x-ai/sections/724695/lessons/2869526",
+      "date": "2025-10-08T07:57:07.540Z",
+      "type": "lesson",
+      "space_name": "「初級以上」AI x UI/UX Vibe Coding介面設計實戰",
+      "space_id": 2223143,
+      "section_name": "模組二：從使用者旅程出發的App互動設計"
+    },
+    {
+      "title": "如何使用流程圖搞懂 APP 的底層邏輯",
+      "url": "https://member.pathunfold.com/c/quick-courses/app",
+      "date": "2025-09-28T07:54:57.953Z",
+      "type": "post",
+      "space_name": "快速課程",
+      "space_id": 2205110
+    },
+    {
+      "title": "你的APP不非得是APP · 第二课",
+      "url": "https://member.pathunfold.com/c/ai-agent-app-app/sections/811238/lessons/2820432",
+      "date": "2025-09-27T04:23:58.849Z",
+      "type": "lesson",
+      "space_name": "「初級以上」打造你的AI Agent 工具箱 (Folder as an APP 直播課)",
+      "space_id": 2246237,
+      "section_name": "002 你的APP不非得是APP · 第二课"
+    },
+    {
+      "title": "可選：個人本地部署方案",
+      "url": "https://member.pathunfold.com/c/n8n/sections/761233/lessons/2819961",
+      "date": "2025-09-27T01:09:51.706Z",
+      "type": "lesson",
+      "space_name": "「入門/初級」n8n 實戰",
+      "space_id": 2175701,
+      "section_name": "課程總覽——只需要選擇一項部署方式"
+    },
+    {
+      "title": "概覽｜Lovable × n8n 的協同範式與能力地圖",
+      "url": "https://member.pathunfold.com/c/n8n/sections/744101/lessons/2819960",
+      "date": "2025-09-27T01:08:47.750Z",
+      "type": "lesson",
+      "space_name": "「入門/初級」n8n 實戰",
+      "space_id": 2175701,
+      "section_name": "Lovable × n8n 實戰 — 從視覺原型到自動化閉環"
+    },
+    {
+      "title": "端到端閉環：存儲本地、codex協作與結果回傳",
+      "url": "https://member.pathunfold.com/c/n8n/sections/744101/lessons/2819959",
+      "date": "2025-09-27T01:08:43.824Z",
+      "type": "lesson",
+      "space_name": "「入門/初級」n8n 實戰",
+      "space_id": 2175701,
+      "section_name": "Lovable × n8n 實戰 — 從視覺原型到自動化閉環"
+    },
+    {
+      "title": "Lovable 進階互動：AI 介接、提示詞與客製化回信",
+      "url": "https://member.pathunfold.com/c/n8n/sections/744101/lessons/2819958",
+      "date": "2025-09-27T01:08:41.297Z",
+      "type": "lesson",
+      "space_name": "「入門/初級」n8n 實戰",
+      "space_id": 2175701,
+      "section_name": "Lovable × n8n 實戰 — 從視覺原型到自動化閉環"
+    },
+    {
+      "title": "n8n 數據編排術：資訊拆分、表格式入庫與郵件通知",
+      "url": "https://member.pathunfold.com/c/n8n/sections/744101/lessons/2819957",
+      "date": "2025-09-27T01:08:23.119Z",
+      "type": "lesson",
+      "space_name": "「入門/初級」n8n 實戰",
+      "space_id": 2175701,
+      "section_name": "Lovable × n8n 實戰 — 從視覺原型到自動化閉環"
+    },
+    {
+      "title": "表單與頁面速構：用 Lovable 觸發 n8n 工作流",
+      "url": "https://member.pathunfold.com/c/n8n/sections/744101/lessons/2819953",
+      "date": "2025-09-27T01:03:18.698Z",
+      "type": "lesson",
+      "space_name": "「入門/初級」n8n 實戰",
+      "space_id": 2175701,
+      "section_name": "Lovable × n8n 實戰 — 從視覺原型到自動化閉環"
+    },
+    {
+      "title": "05-實現 AI Streaming 拍字機效果与 Streamdown",
+      "url": "https://member.pathunfold.com/c/ai-e3bcc2/sections/724439/lessons/2814861",
+      "date": "2025-09-26T00:52:25.995Z",
+      "type": "lesson",
+      "space_name": "「中高級」AI 应用炼金术: 从想法到上架",
+      "space_id": 2222828,
+      "section_name": "App 002 - 搭建属于自己的AI浏览器"
+    },
+    {
+      "title": "04-切換API服務商到OpenRouter，讓我們不再受製於Google Gemini本身",
+      "url": "https://member.pathunfold.com/c/ai-e3bcc2/sections/724439/lessons/2814852",
+      "date": "2025-09-26T00:48:55.184Z",
+      "type": "lesson",
+      "space_name": "「中高級」AI 应用炼金术: 从想法到上架",
+      "space_id": 2222828,
+      "section_name": "App 002 - 搭建属于自己的AI浏览器"
+    },
+    {
+      "title": "03-實戰重構項目代碼到 TypeScript",
+      "url": "https://member.pathunfold.com/c/ai-e3bcc2/sections/724439/lessons/2814843",
+      "date": "2025-09-26T00:47:04.065Z",
+      "type": "lesson",
+      "space_name": "「中高級」AI 应用炼金术: 从想法到上架",
+      "space_id": 2222828,
+      "section_name": "App 002 - 搭建属于自己的AI浏览器"
+    },
+    {
+      "title": "02-添加更多步骤的AI工具使用功能",
+      "url": "https://member.pathunfold.com/c/ai-e3bcc2/sections/724439/lessons/2814833",
+      "date": "2025-09-26T00:46:19.753Z",
+      "type": "lesson",
+      "space_name": "「中高級」AI 应用炼金术: 从想法到上架",
+      "space_id": 2222828,
+      "section_name": "App 002 - 搭建属于自己的AI浏览器"
+    },
+    {
+      "title": "你的APP不非得是APP · 第一课",
+      "url": "https://member.pathunfold.com/c/ai-agent-app-app/sections/744215/lessons/2785170",
+      "date": "2025-09-20T02:28:34.866Z",
+      "type": "lesson",
+      "space_name": "「初級以上」打造你的AI Agent 工具箱 (Folder as an APP 直播課)",
+      "space_id": 2246237,
+      "section_name": "001 你的APP不非得是APP 第一课"
+    },
+    {
+      "title": "课程介绍：你的APP不非得是APP(小白也可以做AI Agent)",
+      "url": "https://member.pathunfold.com/c/ai-agent-app-app/sections/744215/lessons/2785168",
+      "date": "2025-09-20T02:27:09.870Z",
+      "type": "lesson",
+      "space_name": "「初級以上」打造你的AI Agent 工具箱 (Folder as an APP 直播課)",
+      "space_id": 2246237,
+      "section_name": "001 你的APP不非得是APP 第一课"
+    },
+    {
+      "title": "N8N 入门工作流：从 RSS 到 Gmail ",
+      "url": "https://member.pathunfold.com/c/quick-courses/n8n-rss-gmail",
+      "date": "2025-09-15T09:47:26.000Z",
+      "type": "post",
+      "space_name": "快速課程",
+      "space_id": 2205110
+    },
+    {
+      "title": "008-通过VS Code或Cursor连接使用Github",
+      "url": "https://member.pathunfold.com/c/github/sections/727765/lessons/2752800",
+      "date": "2025-09-14T01:07:45.863Z",
+      "type": "lesson",
+      "space_name": "「入門/初級」Github从入门到精通(AI时代版)",
+      "space_id": 2225635,
+      "section_name": "在IDE中使用Github"
+    },
+    {
+      "title": "AI 视频提示词技巧01",
+      "url": "https://member.pathunfold.com/c/ai-1/sections/724607/lessons/2740247",
+      "date": "2025-09-11T03:33:00.452Z",
+      "type": "lesson",
+      "space_name": "「入門/初級」零基础做AI动画: 1分钟短片创作",
+      "space_id": 2223190,
+      "section_name": "AI视频生成"
+    },
+    {
+      "title": "AI视频生成实操——veo3.1（下）",
+      "url": "https://member.pathunfold.com/c/ai-1/sections/724607/lessons/2740246",
+      "date": "2025-09-11T03:31:10.382Z",
+      "type": "lesson",
+      "space_name": "「入門/初級」零基础做AI动画: 1分钟短片创作",
+      "space_id": 2223190,
+      "section_name": "AI视频生成"
+    },
+    {
+      "title": "canva b roll动画制3.0——canva动态效果",
+      "url": "https://member.pathunfold.com/c/ai-1/sections/724608/lessons/2740237",
+      "date": "2025-09-11T03:26:43.995Z",
+      "type": "lesson",
+      "space_name": "「入門/初級」零基础做AI动画: 1分钟短片创作",
+      "space_id": 2223190,
+      "section_name": "canva b-roll制作教程"
+    },
+    {
+      "title": "canva b roll动画制作2 0——canva素材库",
+      "url": "https://member.pathunfold.com/c/ai-1/sections/724608/lessons/2740225",
+      "date": "2025-09-11T03:08:17.095Z",
+      "type": "lesson",
+      "space_name": "「入門/初級」零基础做AI动画: 1分钟短片创作",
+      "space_id": 2223190,
+      "section_name": "canva b-roll制作教程"
+    },
+    {
+      "title": "canva b roll动画制作1 0——课程介绍",
+      "url": "https://member.pathunfold.com/c/ai-1/sections/724608/lessons/2740224",
+      "date": "2025-09-11T03:07:40.515Z",
+      "type": "lesson",
+      "space_name": "「入門/初級」零基础做AI动画: 1分钟短片创作",
+      "space_id": 2223190,
+      "section_name": "canva b-roll制作教程"
+    },
+    {
+      "title": "AI视频生成实操——veo3.1（上）",
+      "url": "https://member.pathunfold.com/c/ai-1/sections/724607/lessons/2740222",
+      "date": "2025-09-11T03:07:15.851Z",
+      "type": "lesson",
+      "space_name": "「入門/初級」零基础做AI动画: 1分钟短片创作",
+      "space_id": 2223190,
+      "section_name": "AI视频生成"
+    },
+    {
+      "title": "文稿到画面：生成AI分镜图片",
+      "url": "https://member.pathunfold.com/c/ai-1/sections/719632/lessons/2740212",
+      "date": "2025-09-11T02:52:02.698Z",
+      "type": "lesson",
+      "space_name": "「入門/初級」零基础做AI动画: 1分钟短片创作",
+      "space_id": 2223190,
+      "section_name": "课程介绍和AI图像生成"
+    },
+    {
+      "title": "AI角色定妆照",
+      "url": "https://member.pathunfold.com/c/ai-1/sections/719632/lessons/2740171",
+      "date": "2025-09-11T02:17:57.251Z",
+      "type": "lesson",
+      "space_name": "「入門/初級」零基础做AI动画: 1分钟短片创作",
+      "space_id": 2223190,
+      "section_name": "课程介绍和AI图像生成"
+    },
+    {
+      "title": "课程大纲",
+      "url": "https://member.pathunfold.com/c/ai-e3bcc2/sections/724439/lessons/2739610",
+      "date": "2025-09-10T20:54:13.068Z",
+      "type": "lesson",
+      "space_name": "「中高級」AI 应用炼金术: 从想法到上架",
+      "space_id": 2222828,
+      "section_name": "App 002 - 搭建属于自己的AI浏览器"
+    },
+    {
+      "title": "01-创建MVP:你真的可以用AI在1小时内从0到1做出一个 AI 浏览器原型!",
+      "url": "https://member.pathunfold.com/c/ai-e3bcc2/sections/724439/lessons/2739570",
+      "date": "2025-09-10T20:43:25.387Z",
+      "type": "lesson",
+      "space_name": "「中高級」AI 应用炼金术: 从想法到上架",
+      "space_id": 2222828,
+      "section_name": "App 002 - 搭建属于自己的AI浏览器"
+    },
+    {
+      "title": "5 Mock作業",
+      "url": "https://member.pathunfold.com/c/design-x-ai/sections/720775/lessons/2738899",
+      "date": "2025-09-10T18:51:22.232Z",
+      "type": "lesson",
+      "space_name": "「初級以上」AI x UI/UX Vibe Coding介面設計實戰",
+      "space_id": 2223143,
+      "section_name": "模組一：從頭熟悉AI驅動的UI/UX設計流程"
+    },
+    {
+      "title": "4 Wireframe作業",
+      "url": "https://member.pathunfold.com/c/design-x-ai/sections/720775/lessons/2738897",
+      "date": "2025-09-10T18:51:06.753Z",
+      "type": "lesson",
+      "space_name": "「初級以上」AI x UI/UX Vibe Coding介面設計實戰",
+      "space_id": 2223143,
+      "section_name": "模組一：從頭熟悉AI驅動的UI/UX設計流程"
+    },
+    {
+      "title": "3 Sitemap作業",
+      "url": "https://member.pathunfold.com/c/design-x-ai/sections/720775/lessons/2738894",
+      "date": "2025-09-10T18:50:55.292Z",
+      "type": "lesson",
+      "space_name": "「初級以上」AI x UI/UX Vibe Coding介面設計實戰",
+      "space_id": 2223143,
+      "section_name": "模組一：從頭熟悉AI驅動的UI/UX設計流程"
+    },
+    {
+      "title": "2 PRD作業",
+      "url": "https://member.pathunfold.com/c/design-x-ai/sections/720775/lessons/2738891",
+      "date": "2025-09-10T18:50:43.563Z",
+      "type": "lesson",
+      "space_name": "「初級以上」AI x UI/UX Vibe Coding介面設計實戰",
+      "space_id": 2223143,
+      "section_name": "模組一：從頭熟悉AI驅動的UI/UX設計流程"
+    },
+    {
+      "title": "1 Persona作業",
+      "url": "https://member.pathunfold.com/c/design-x-ai/sections/720775/lessons/2738880",
+      "date": "2025-09-10T18:49:22.489Z",
+      "type": "lesson",
+      "space_name": "「初級以上」AI x UI/UX Vibe Coding介面設計實戰",
+      "space_id": 2223143,
+      "section_name": "模組一：從頭熟悉AI驅動的UI/UX設計流程"
+    },
+    {
+      "title": "5 - Mockup ：以 Wireframe 為基礎，透過視覺參考產出設計打樣",
+      "url": "https://member.pathunfold.com/c/design-x-ai/sections/720775/lessons/2738817",
+      "date": "2025-09-10T18:34:29.757Z",
+      "type": "lesson",
+      "space_name": "「初級以上」AI x UI/UX Vibe Coding介面設計實戰",
+      "space_id": 2223143,
+      "section_name": "模組一：從頭熟悉AI驅動的UI/UX設計流程"
+    },
+    {
+      "title": "4 - Wireframe ：低保真、功能優先，先對齊流程與互動再談樣式",
+      "url": "https://member.pathunfold.com/c/design-x-ai/sections/720775/lessons/2738816",
+      "date": "2025-09-10T18:34:06.649Z",
+      "type": "lesson",
+      "space_name": "「初級以上」AI x UI/UX Vibe Coding介面設計實戰",
+      "space_id": 2223143,
+      "section_name": "模組一：從頭熟悉AI驅動的UI/UX設計流程"
+    },
+    {
+      "title": "3 - Sitemap：把功能對應到頁面與路徑，避免使用者迷路。",
+      "url": "https://member.pathunfold.com/c/design-x-ai/sections/720775/lessons/2738808",
+      "date": "2025-09-10T18:33:19.191Z",
+      "type": "lesson",
+      "space_name": "「初級以上」AI x UI/UX Vibe Coding介面設計實戰",
+      "space_id": 2223143,
+      "section_name": "模組一：從頭熟悉AI驅動的UI/UX設計流程"
+    },
+    {
+      "title": "2 - PRD：明確產品目標、功能與可交付，聚焦 MVP 與驗收。",
+      "url": "https://member.pathunfold.com/c/design-x-ai/sections/720775/lessons/2738805",
+      "date": "2025-09-10T18:32:44.880Z",
+      "type": "lesson",
+      "space_name": "「初級以上」AI x UI/UX Vibe Coding介面設計實戰",
+      "space_id": 2223143,
+      "section_name": "模組一：從頭熟悉AI驅動的UI/UX設計流程"
+    },
+    {
+      "title": "1 - Persona：定義典型使用者",
+      "url": "https://member.pathunfold.com/c/design-x-ai/sections/720775/lessons/2738801",
+      "date": "2025-09-10T18:29:58.460Z",
+      "type": "lesson",
+      "space_name": "「初級以上」AI x UI/UX Vibe Coding介面設計實戰",
+      "space_id": 2223143,
+      "section_name": "模組一：從頭熟悉AI驅動的UI/UX設計流程"
+    },
+    {
+      "title": "模組簡介",
+      "url": "https://member.pathunfold.com/c/design-x-ai/sections/720775/lessons/2738777",
+      "date": "2025-09-10T18:21:58.839Z",
+      "type": "lesson",
+      "space_name": "「初級以上」AI x UI/UX Vibe Coding介面設計實戰",
+      "space_id": 2223143,
+      "section_name": "模組一：從頭熟悉AI驅動的UI/UX設計流程"
+    },
+    {
+      "title": "5分钟学会！用AI生成动态字体效果",
+      "url": "https://member.pathunfold.com/c/quick-courses/5-ai",
+      "date": "2025-09-10T03:22:07.841Z",
+      "type": "post",
+      "space_name": "快速課程",
+      "space_id": 2205110
+    },
+    {
+      "title": "告別恐懼！AI 讓 Terminal 從地獄模式秒變簡單模式。命令行入門",
+      "url": "https://member.pathunfold.com/c/quick-courses/ai-terminal",
+      "date": "2025-09-10T02:46:01.466Z",
+      "type": "post",
+      "space_name": "快速課程",
+      "space_id": 2205110
+    },
+    {
+      "title": "课程介绍",
+      "url": "https://member.pathunfold.com/c/ai-1/sections/719632/lessons/2728004",
+      "date": "2025-09-08T23:07:45.125Z",
+      "type": "lesson",
+      "space_name": "「入門/初級」零基础做AI动画: 1分钟短片创作",
+      "space_id": 2223190,
+      "section_name": "课程介绍和AI图像生成"
+    },
+    {
+      "title": "AI 浏览器六大应用场景示例，等你来补充第七个！",
+      "url": "https://member.pathunfold.com/c/quick-courses/ai-37214d",
+      "date": "2025-09-08T21:28:38.450Z",
+      "type": "post",
+      "space_name": "快速課程",
+      "space_id": 2205110
+    },
+    {
+      "title": "007-通过Github(Desktop)把网页发布(部署)到互联网上",
+      "url": "https://member.pathunfold.com/c/github/sections/721427/lessons/2727273",
+      "date": "2025-09-08T20:39:12.879Z",
+      "type": "lesson",
+      "space_name": "「入門/初級」Github从入门到精通(AI时代版)",
+      "space_id": 2225635,
+      "section_name": "如何把Vibe Code出的网页发布(部署)到互联网上(通过Github)(更新中)"
+    },
+    {
+      "title": "006-用ChatGPT制作一个网页小游戏并保存到本地",
+      "url": "https://member.pathunfold.com/c/github/sections/721427/lessons/2727271",
+      "date": "2025-09-08T20:38:54.545Z",
+      "type": "lesson",
+      "space_name": "「入門/初級」Github从入门到精通(AI时代版)",
+      "space_id": 2225635,
+      "section_name": "如何把Vibe Code出的网页发布(部署)到互联网上(通过Github)(更新中)"
+    },
+    {
+      "title": "005-通过Github中转站部署网页应用介绍",
+      "url": "https://member.pathunfold.com/c/github/sections/721427/lessons/2727269",
+      "date": "2025-09-08T20:38:44.291Z",
+      "type": "lesson",
+      "space_name": "「入門/初級」Github从入门到精通(AI时代版)",
+      "space_id": 2225635,
+      "section_name": "如何把Vibe Code出的网页发布(部署)到互联网上(通过Github)(更新中)"
+    },
+    {
+      "title": "004-在命令行中安装 Github(让AI帮我们做)",
+      "url": "https://member.pathunfold.com/c/github/sections/721358/lessons/2727268",
+      "date": "2025-09-08T20:38:30.052Z",
+      "type": "lesson",
+      "space_name": "「入門/初級」Github从入门到精通(AI时代版)",
+      "space_id": 2225635,
+      "section_name": "Github 101"
+    },
+    {
+      "title": "003-尝试Github Desktop创建项目(小试牛刀)",
+      "url": "https://member.pathunfold.com/c/github/sections/721358/lessons/2727266",
+      "date": "2025-09-08T20:38:00.271Z",
+      "type": "lesson",
+      "space_name": "「入門/初級」Github从入门到精通(AI时代版)",
+      "space_id": 2225635,
+      "section_name": "Github 101"
+    },
+    {
+      "title": "002-简单解释Github 工作原理以及为什么使用它",
+      "url": "https://member.pathunfold.com/c/github/sections/721358/lessons/2727264",
+      "date": "2025-09-08T20:37:40.298Z",
+      "type": "lesson",
+      "space_name": "「入門/初級」Github从入门到精通(AI时代版)",
+      "space_id": 2225635,
+      "section_name": "Github 101"
+    },
+    {
+      "title": "001-创建Github账户安装Github Desktop",
+      "url": "https://member.pathunfold.com/c/github/sections/721358/lessons/2727263",
+      "date": "2025-09-08T20:37:18.127Z",
+      "type": "lesson",
+      "space_name": "「入門/初級」Github从入门到精通(AI时代版)",
+      "space_id": 2225635,
+      "section_name": "Github 101"
+    },
+    {
+      "title": "000-课程介绍(Github从入门到精通)",
+      "url": "https://member.pathunfold.com/c/github/sections/721358/lessons/2727261",
+      "date": "2025-09-08T20:36:05.825Z",
+      "type": "lesson",
+      "space_name": "「入門/初級」Github从入门到精通(AI时代版)",
+      "space_id": 2225635,
+      "section_name": "Github 101"
+    },
+    {
+      "title": "課程介绍",
+      "url": "https://member.pathunfold.com/c/design-x-ai/sections/720765/lessons/2725019",
+      "date": "2025-09-08T14:03:37.088Z",
+      "type": "lesson",
+      "space_name": "「初級以上」AI x UI/UX Vibe Coding介面設計實戰",
+      "space_id": 2223143,
+      "section_name": "Intro"
+    },
+    {
+      "title": "OpenAI Codex 重大更新四大亮點｜新手必看：快速安裝到 Cursor / VS Code，還能省下 Cursor 會員費",
+      "url": "https://member.pathunfold.com/c/claude-code/sections/719983/lessons/2722589",
+      "date": "2025-09-07T23:32:41.440Z",
+      "type": "lesson",
+      "space_name": "「入門」Claude Code · Gemini CLI 101 · Codex CLI",
+      "space_id": 2175702,
+      "section_name": "安装和初试 Codex CLI"
+    },
+    {
+      "title": "用Codex CLI 制作一个AI App (语音闪念笔记原型)",
+      "url": "https://member.pathunfold.com/c/claude-code/sections/719983/lessons/2722587",
+      "date": "2025-09-07T23:31:54.081Z",
+      "type": "lesson",
+      "space_name": "「入門」Claude Code · Gemini CLI 101 · Codex CLI",
+      "space_id": 2175702,
+      "section_name": "安装和初试 Codex CLI"
+    },
+    {
+      "title": "安装Codex CLI(我为什么推荐它)",
+      "url": "https://member.pathunfold.com/c/claude-code/sections/719983/lessons/2722586",
+      "date": "2025-09-07T23:30:00.179Z",
+      "type": "lesson",
+      "space_name": "「入門」Claude Code · Gemini CLI 101 · Codex CLI",
+      "space_id": 2175702,
+      "section_name": "安装和初试 Codex CLI"
+    },
+    {
+      "title": "小白第二次尝试Gemini CLI - 制作俄罗斯方块网页小游戏",
+      "url": "https://member.pathunfold.com/c/claude-code/sections/719977/lessons/2722583",
+      "date": "2025-09-07T23:28:01.341Z",
+      "type": "lesson",
+      "space_name": "「入門」Claude Code · Gemini CLI 101 · Codex CLI",
+      "space_id": 2175702,
+      "section_name": "安装Gemini CLI(小白100%体验版)"
+    },
+    {
+      "title": "小白第一次尝试Gemini CLI-创建，翻译和删除文件",
+      "url": "https://member.pathunfold.com/c/claude-code/sections/719977/lessons/2722582",
+      "date": "2025-09-07T23:27:19.092Z",
+      "type": "lesson",
+      "space_name": "「入門」Claude Code · Gemini CLI 101 · Codex CLI",
+      "space_id": 2175702,
+      "section_name": "安装Gemini CLI(小白100%体验版)"
+    },
+    {
+      "title": "Mac上安装Gemini CLI",
+      "url": "https://member.pathunfold.com/c/claude-code/sections/719977/lessons/2722581",
+      "date": "2025-09-07T23:26:14.891Z",
+      "type": "lesson",
+      "space_name": "「入門」Claude Code · Gemini CLI 101 · Codex CLI",
+      "space_id": 2175702,
+      "section_name": "安装Gemini CLI(小白100%体验版)"
+    },
+    {
+      "title": "安装Node.js",
+      "url": "https://member.pathunfold.com/c/claude-code/sections/719977/lessons/2722579",
+      "date": "2025-09-07T23:25:15.452Z",
+      "type": "lesson",
+      "space_name": "「入門」Claude Code · Gemini CLI 101 · Codex CLI",
+      "space_id": 2175702,
+      "section_name": "安装Gemini CLI(小白100%体验版)"
+    },
+    {
+      "title": "Gemini CLI的安装准备工作",
+      "url": "https://member.pathunfold.com/c/claude-code/sections/719977/lessons/2722577",
+      "date": "2025-09-07T23:21:07.980Z",
+      "type": "lesson",
+      "space_name": "「入門」Claude Code · Gemini CLI 101 · Codex CLI",
+      "space_id": 2175702,
+      "section_name": "安装Gemini CLI(小白100%体验版)"
+    },
+    {
+      "title": "AI 短片新手教程：从脚本到成片",
+      "url": "https://member.pathunfold.com/c/quick-courses/ai",
+      "date": "2025-09-07T12:08:11.823Z",
+      "type": "post",
+      "space_name": "快速課程",
+      "space_id": 2205110
+    },
+    {
+      "title": "解读谷歌 Nano Banana 官方视频：从技术层面看nano的进展",
+      "url": "https://member.pathunfold.com/c/quick-courses/nano-banana-nano",
+      "date": "2025-09-07T11:45:49.000Z",
+      "type": "post",
+      "space_name": "快速課程",
+      "space_id": 2205110
+    },
+    {
+      "title": "重磅课程宣布:AI 应用炼金术：从想法到上架，直播实战课",
+      "url": "https://member.pathunfold.com/c/ai-e3bcc2/sections/719407/lessons/2720236",
+      "date": "2025-09-07T03:25:22.504Z",
+      "type": "lesson",
+      "space_name": "「中高級」AI 应用炼金术: 从想法到上架",
+      "space_id": 2222828,
+      "section_name": "App 001 - 第一部分 - 从零开始构建ChatGPT(打造你自己的AI Agent)"
+    },
+    {
+      "title": "第一次直播课(Recording&详细讲义)",
+      "url": "https://member.pathunfold.com/c/ai-e3bcc2/sections/719407/lessons/2720172",
+      "date": "2025-09-07T03:02:25.546Z",
+      "type": "lesson",
+      "space_name": "「中高級」AI 应用炼金术: 从想法到上架",
+      "space_id": 2222828,
+      "section_name": "App 001 - 第一部分 - 从零开始构建ChatGPT(打造你自己的AI Agent)"
+    },
+    {
+      "title": "為什麼UI設計師不用Figma了？",
+      "url": "https://member.pathunfold.com/c/quick-courses/ui-figma",
+      "date": "2025-09-02T17:26:57.579Z",
+      "type": "post",
+      "space_name": "快速課程",
+      "space_id": 2205110
+    },
+    {
+      "title": "部署上线：Vercel 环境变量配置与一键发布",
+      "url": "https://member.pathunfold.com/c/cursor-101-3-web-app-vibe-coding/sections/713104/lessons/2694840",
+      "date": "2025-09-01T22:18:12.677Z",
+      "type": "lesson",
+      "space_name": "「入門/初級」Cursor 101 - 制作3个Web App让你开始Vibe Coding",
+      "space_id": 2200525,
+      "section_name": "网站开发全流程：从需求到部署（书架 App）"
+    },
+    {
+      "title": "后端数据库：Supabase 接入、表结构设计与 CRUD 实战",
+      "url": "https://member.pathunfold.com/c/cursor-101-3-web-app-vibe-coding/sections/713104/lessons/2694835",
+      "date": "2025-09-01T22:17:02.891Z",
+      "type": "lesson",
+      "space_name": "「入門/初級」Cursor 101 - 制作3个Web App让你开始Vibe Coding",
+      "space_id": 2200525,
+      "section_name": "网站开发全流程：从需求到部署（书架 App）"
+    },
+    {
+      "title": "从产品需求到前端实现：表单、列表与交互",
+      "url": "https://member.pathunfold.com/c/cursor-101-3-web-app-vibe-coding/sections/713104/lessons/2694828",
+      "date": "2025-09-01T22:13:20.202Z",
+      "type": "lesson",
+      "space_name": "「入門/初級」Cursor 101 - 制作3个Web App让你开始Vibe Coding",
+      "space_id": 2200525,
+      "section_name": "网站开发全流程：从需求到部署（书架 App）"
+    },
+    {
+      "title": "(必看)网站开发流程：角色分工、请求-响应与全链路概览",
+      "url": "https://member.pathunfold.com/c/cursor-101-3-web-app-vibe-coding/sections/713104/lessons/2694824",
+      "date": "2025-09-01T22:11:57.334Z",
+      "type": "lesson",
+      "space_name": "「入門/初級」Cursor 101 - 制作3个Web App让你开始Vibe Coding",
+      "space_id": 2200525,
+      "section_name": "网站开发全流程：从需求到部署（书架 App）"
+    },
+    {
+      "title": "课程介绍",
+      "url": "https://member.pathunfold.com/c/cursor-101-3-web-app-vibe-coding/sections/713104/lessons/2694822",
+      "date": "2025-09-01T22:10:48.747Z",
+      "type": "lesson",
+      "space_name": "「入門/初級」Cursor 101 - 制作3个Web App让你开始Vibe Coding",
+      "space_id": 2200525,
+      "section_name": "网站开发全流程：从需求到部署（书架 App）"
+    },
+    {
+      "title": "Nano banana初学者guidance｜如何用nano banana制作AI视频",
+      "url": "https://member.pathunfold.com/c/quick-courses/nano-banana-guidance-nano-banana-ai",
+      "date": "2025-09-01T00:07:22.200Z",
+      "type": "post",
+      "space_name": "快速課程",
+      "space_id": 2205110
+    },
+    {
+      "title": "OpenAI Codex 重大更新四大亮點｜新手必看：快速安裝到 Cursor / VS Code，還能省下 Cursor 會員費",
+      "url": "https://member.pathunfold.com/c/quick-courses/openai-codex-cursor-vs-code-cursor-93b757",
+      "date": "2025-08-30T19:37:32.403Z",
+      "type": "post",
+      "space_name": "快速課程",
+      "space_id": 2205110
+    },
+    {
+      "title": "快速起步：用 Google AI Studio 打造你的第一個 AI 應用：創建你自己的 news feed，生成圖片，用谷歌最新模型🍌編輯圖片。最簡單的方式，用 AI 造 AI 工具",
+      "url": "https://member.pathunfold.com/c/quick-courses/google-ai-studio-ai-news-feed-ai-ai",
+      "date": "2025-08-29T02:29:31.838Z",
+      "type": "post",
+      "space_name": "快速課程",
+      "space_id": 2205110
+    },
+    {
+      "title": "入門向：Mac新手必看！安全、簡單的AI編程環境搭建，全程不用管理員密碼。node.js 與其他編程命令行工具安裝",
+      "url": "https://member.pathunfold.com/c/quick-courses/mac-ai-node-js",
+      "date": "2025-08-28T01:20:39.988Z",
+      "type": "post",
+      "space_name": "快速課程",
+      "space_id": 2205110
+    },
+    {
+      "title": "入門向：簡單瞭解一下AI工具的分類，與如何選擇入門工具",
+      "url": "https://member.pathunfold.com/c/quick-courses/ai-bc095f",
+      "date": "2025-08-27T04:02:00.528Z",
+      "type": "post",
+      "space_name": "快速課程",
+      "space_id": 2205110
+    },
+    {
+      "title": "课程介绍",
+      "url": "https://member.pathunfold.com/c/cursor-101-3-web-app-vibe-coding/sections/705040/lessons/2664341",
+      "date": "2025-08-25T20:20:38.611Z",
+      "type": "lesson",
+      "space_name": "「入門/初級」Cursor 101 - 制作3个Web App让你开始Vibe Coding",
+      "space_id": 2200525,
+      "section_name": "小白起步：安装Cursor并制作第一个Web App"
+    },
+    {
+      "title": "课程字幕文件(便于大家使用AI总结和问答)",
+      "url": "https://member.pathunfold.com/c/cursor-101-3-web-app-vibe-coding/sections/705040/lessons/2664331",
+      "date": "2025-08-25T20:18:25.777Z",
+      "type": "lesson",
+      "space_name": "「入門/初級」Cursor 101 - 制作3个Web App让你开始Vibe Coding",
+      "space_id": 2200525,
+      "section_name": "小白起步：安装Cursor并制作第一个Web App"
+    },
+    {
+      "title": "8分钟安装并完成第一个web app(URL转二维码)",
+      "url": "https://member.pathunfold.com/c/cursor-101-3-web-app-vibe-coding/sections/705040/lessons/2664193",
+      "date": "2025-08-25T20:05:44.655Z",
+      "type": "lesson",
+      "space_name": "「入門/初級」Cursor 101 - 制作3个Web App让你开始Vibe Coding",
+      "space_id": 2200525,
+      "section_name": "小白起步：安装Cursor并制作第一个Web App"
+    },
+    {
+      "title": "你真的可以做到：如何用AI在1小时内，从0到1做出一个 AI 浏览器原型，类似 Perplexity Comet。让我们一起用 AI 制造 AI 工具",
+      "url": "https://member.pathunfold.com/c/quick-courses/ai-30-0-1-ai-perplexity-comet-ai-ai",
+      "date": "2025-08-24T19:08:53.634Z",
+      "type": "post",
+      "space_name": "快速課程",
+      "space_id": 2205110
+    },
+    {
+      "title": "Demo和两个课程预告: AI Vibe Coding入门-制作跳动高亮字幕",
+      "url": "https://member.pathunfold.com/c/quick-courses/demo-ai-vibe-coding",
+      "date": "2025-08-24T00:09:45.796Z",
+      "type": "post",
+      "space_name": "快速課程",
+      "space_id": 2205110
+    },
+    {
+      "title": "Bonus: 使用NPM安装Claude Code(安装11分钟处有反转)",
+      "url": "https://member.pathunfold.com/c/claude-code/sections/697023/lessons/2638133",
+      "date": "2025-08-18T22:13:17.306Z",
+      "type": "lesson",
+      "space_name": "「入門」Claude Code · Gemini CLI 101 · Codex CLI",
+      "space_id": 2175702,
+      "section_name": "安装Claude Code(小白到底经历了什么?!)"
+    },
+    {
+      "title": "安装Claude Code后的第一次尝试!",
+      "url": "https://member.pathunfold.com/c/claude-code/sections/697023/lessons/2638100",
+      "date": "2025-08-18T21:57:41.973Z",
+      "type": "lesson",
+      "space_name": "「入門」Claude Code · Gemini CLI 101 · Codex CLI",
+      "space_id": 2175702,
+      "section_name": "安装Claude Code(小白到底经历了什么?!)"
+    },
+    {
+      "title": "在Mac上安装Claude Code(100%还原小白经历)",
+      "url": "https://member.pathunfold.com/c/claude-code/sections/697023/lessons/2636818",
+      "date": "2025-08-18T16:56:55.439Z",
+      "type": "lesson",
+      "space_name": "「入門」Claude Code · Gemini CLI 101 · Codex CLI",
+      "space_id": 2175702,
+      "section_name": "安装Claude Code(小白到底经历了什么?!)"
     }
   ]
 }

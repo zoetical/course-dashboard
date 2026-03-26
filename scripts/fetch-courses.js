@@ -54,8 +54,8 @@ const EXCLUDED_SPACE_IDS = new Set([
   2205110,  // 快速課程 (handled as post space)
 ]);
 
-// How many days of history to fetch
-const LOOKBACK_DAYS = 60;
+// How many days of history to fetch (set high to include all courses)
+const LOOKBACK_DAYS = 3650;
 
 
 // ========== API Helpers ==========
