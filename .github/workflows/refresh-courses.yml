@@ -24,6 +24,11 @@ jobs:
           CIRCLE_V2_TOKEN: ${{ secrets.CIRCLE_V2_TOKEN }}
         run: node scripts/fetch-courses.js
 
+      - name: Notify if new courses found
+        env:
+          CIRCLE_V1_TOKEN: ${{ secrets.CIRCLE_V1_TOKEN }}
+        run: node scripts/notify-update.js
+
       - name: Commit and push updated data
         run: |
           git config user.name "github-actions[bot]"
