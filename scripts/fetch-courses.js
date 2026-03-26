@@ -21,32 +21,42 @@ const __dirname = path.dirname(__filename);
 const API_BASE = 'https://app.circle.so/api/admin/v2';
 const COMMUNITY_URL = 'https://member.pathunfold.com';
 
-// All course spaces to monitor
-// type: 'course' = has lessons/sections, 'posts' = regular posts (like 迷你公開課)
-const COURSE_SPACES = [
-  // --- Course-type spaces (have lessons) ---
-  { id: 2175702, name: 'Claude Code · Gemini CLI 101 · Codex CLI', type: 'course', slug: null },
-  { id: 2175701, name: 'n8n 實戰', type: 'course', slug: null },
-  { id: 2200525, name: 'Cursor 101', type: 'course', slug: null },
-  { id: 2225635, name: 'Github从入门到精通', type: 'course', slug: null },
-  { id: 2223190, name: '零基础做AI动画', type: 'course', slug: null },
-  { id: 2223143, name: 'AI x UI/UX Vibe Coding', type: 'course', slug: null },
-  { id: 2222828, name: 'AI 应用炼金术', type: 'course', slug: null },
-  { id: 2505270, name: '即學即用', type: 'course', slug: '423681' },
-  { id: 2246237, name: '打造你的AI Agent 工具箱', type: 'course', slug: null },
-  { id: 2292229, name: '小程序+Windows系統Vibe Coding專區', type: 'course', slug: null },
-  { id: 2314452, name: 'iOS app 開發 101', type: 'course', slug: null },
-  { id: 2338225, name: '5分鐘用Google Stitch快速設計App', type: 'course', slug: null },
-  { id: 2364215, name: '零門檻用AI做影片', type: 'course', slug: null },
-  { id: 2364264, name: 'MCP 101', type: 'course', slug: null },
-
-  // --- Post-type spaces ---
-  { id: 2453584, name: '迷你公開課', type: 'posts', slug: null },
-  { id: 2205110, name: '快速課程', type: 'posts', slug: null },
+// Post-type spaces (not auto-discoverable, manually tracked)
+// These are regular post spaces that contain course-like content
+const KNOWN_POST_SPACES = [
+  { id: 2453584, name: '迷你公開課' },
+  { id: 2205110, name: '快速課程' },
 ];
+
+// Spaces to EXCLUDE from auto-discovery (non-course spaces)
+const EXCLUDED_SPACE_IDS = new Set([
+  2175667,  // 電子報&站務
+  2175665,  // 分享交流
+  2175670,  // 活動
+  2548212,  // 活動區
+  2175909,  // 新人報到
+  2183637,  // 尋求幫助
+  2183353,  // Vibe Coding日記
+  2183782,  // 直播存檔
+  2230360,  // 成果提交
+  2227323,  // 交作業
+  2230363,  // 聊天室
+  2230366,  // 論壇交流
+  2232363,  // AI電波
+  2236299,  // 線下Meetup
+  2224210,  // 開始清單
+  2368352,  // Program活動
+  2368353,  // 星空小船
+  2389795,  // 學習路線
+  2392017,  // 用AI發電Podcast
+  2483936,  // Build With Us: Mini Hackathon
+  2453584,  // 迷你公開課 (handled as post space)
+  2205110,  // 快速課程 (handled as post space)
+]);
 
 // How many days of history to fetch
 const LOOKBACK_DAYS = 60;
+
 
 // ========== API Helpers ==========
 function getToken() {
@@ -209,6 +219,55 @@ async function fetchSpacePosts(space, token, since) {
   return courses;
 }
 
+// ========== Dynamic Space Discovery ==========
+
+/**
+ * Fetch all spaces from Circle API and filter for course-type spaces.
+ * This auto-discovers new course spaces that are created after deployment.
+ */
+async function discoverCourseSpaces(token) {
+  console.log('🔎 Auto-discovering course spaces...');
+  const allSpaces = await fetchAllPages('/spaces', {}, token);
+  
+  const courseSpaces = [];
+  for (const space of allSpaces) {
+    // Skip excluded spaces
+    if (EXCLUDED_SPACE_IDS.has(space.id)) continue;
+    
+    // Include spaces that are course-type (have lessons)
+    // Circle API returns space_type or we can check if it has course features
+    const spaceType = space.space_type || space.type;
+    if (spaceType === 'course') {
+      courseSpaces.push({
+        id: space.id,
+        name: space.name,
+        type: 'course',
+        slug: space.slug || null,
+      });
+    }
+  }
+  
+  // Add known post-type spaces
+  const postSpaces = KNOWN_POST_SPACES.map(s => ({
+    ...s,
+    type: 'posts',
+    slug: null,
+  }));
+  
+  const all = [...courseSpaces, ...postSpaces];
+  console.log(`  → Found ${courseSpaces.length} course spaces + ${postSpaces.length} post spaces = ${all.length} total\n`);
+  
+  for (const s of courseSpaces) {
+    console.log(`    📖 [course] ${s.name} (${s.id})`);
+  }
+  for (const s of postSpaces) {
+    console.log(`    📰 [posts]  ${s.name} (${s.id})`);
+  }
+  console.log('');
+  
+  return all;
+}
+
 // ========== Main ==========
 async function main() {
   console.log('🚀 課程更新大看板 — 數據抓取');
@@ -219,9 +278,12 @@ async function main() {
   since.setDate(since.getDate() - LOOKBACK_DAYS);
   console.log(`🔍 搜索範圍: 近 ${LOOKBACK_DAYS} 天 (since ${since.toISOString().split('T')[0]})\n`);
 
+  // Dynamically discover course spaces
+  const spaces = await discoverCourseSpaces(token);
+
   const allCourses = [];
 
-  for (const space of COURSE_SPACES) {
+  for (const space of spaces) {
     try {
       let items;
       if (space.type === 'course') {
@@ -243,6 +305,7 @@ async function main() {
     updated_at: new Date().toISOString(),
     lookback_days: LOOKBACK_DAYS,
     total: allCourses.length,
+    spaces_monitored: spaces.length,
     courses: allCourses,
   };
 
@@ -269,3 +332,4 @@ main().catch(err => {
   console.error('❌ Fatal error:', err);
   process.exit(1);
 });
+

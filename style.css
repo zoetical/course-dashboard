@@ -123,11 +123,43 @@ body {
   letter-spacing: -0.025em;
 }
 
-.nav-title {
-  font-weight: 500;
-  font-size: 0.875rem;
-  color: var(--text-muted);
-  display: none;
+.nav-search {
+  position: relative;
+  flex: 1 1 auto;
+  max-width: 380px;
+  margin: 0 var(--space-md);
+}
+
+.nav-search .search-icon {
+  position: absolute;
+  left: 14px;
+  top: 50%;
+  transform: translateY(-50%);
+  font-size: 0.8125rem;
+  pointer-events: none;
+}
+
+.nav-search input {
+  width: 100%;
+  padding: 8px 14px 8px 36px;
+  border: 1px solid var(--border-light);
+  border-radius: var(--radius-pill);
+  background: rgba(255, 255, 255, 0.6);
+  font-size: 0.8125rem;
+  font-family: inherit;
+  color: var(--text-body);
+  outline: none;
+  transition: border-color var(--transition-fast), box-shadow var(--transition-fast), background var(--transition-fast);
+}
+
+.nav-search input:focus {
+  border-color: var(--primary-orange);
+  box-shadow: 0 0 0 3px rgba(245, 165, 36, 0.12);
+  background: var(--white);
+}
+
+.nav-search input::placeholder {
+  color: var(--text-light);
 }
 
 .nav-cta {
@@ -255,9 +287,7 @@ body {
 .filters-container {
   display: flex;
   align-items: center;
-  justify-content: space-between;
   gap: var(--space-md);
-  flex-wrap: wrap;
 }
 
 .filter-group {
@@ -289,41 +319,7 @@ body {
   border-color: var(--ui-dark);
 }
 
-.search-box {
-  position: relative;
-  flex: 0 1 260px;
-}
 
-.search-icon {
-  position: absolute;
-  left: 14px;
-  top: 50%;
-  transform: translateY(-50%);
-  font-size: 0.875rem;
-  pointer-events: none;
-}
-
-.search-box input {
-  width: 100%;
-  padding: 9px 14px 9px 38px;
-  border: 1px solid var(--border-light);
-  border-radius: var(--radius-pill);
-  background: var(--white);
-  font-size: 0.8125rem;
-  font-family: inherit;
-  color: var(--text-body);
-  outline: none;
-  transition: border-color var(--transition-fast), box-shadow var(--transition-fast);
-}
-
-.search-box input:focus {
-  border-color: var(--primary-orange);
-  box-shadow: 0 0 0 3px rgba(245, 165, 36, 0.12);
-}
-
-.search-box input::placeholder {
-  color: var(--text-light);
-}
 
 /* --- Course Grid --- */
 .courses-container {
@@ -516,8 +512,8 @@ body {
 
 /* --- Responsive --- */
 @media (min-width: 640px) {
-  .nav-title {
-    display: block;
+  .nav-search {
+    max-width: 420px;
   }
 }
 
@@ -537,20 +533,15 @@ body {
     height: 1px;
   }
 
-  .filters-container {
-    flex-direction: column;
-    align-items: stretch;
-  }
-
-  .search-box {
-    flex: 1 1 100%;
-  }
-
   .courses-grid {
     grid-template-columns: 1fr;
   }
 
   .nav-cta {
     display: none;
+  }
+
+  .nav-search {
+    margin: 0 var(--space-sm);
   }
 }

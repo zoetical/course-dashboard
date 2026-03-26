@@ -1,22 +1,175 @@
 {
-  "updated_at": "2026-03-26T10:04:15.529Z",
+  "updated_at": "2026-03-26T10:42:59.268Z",
   "lookback_days": 60,
-  "total": 67,
+  "total": 144,
+  "spaces_monitored": 29,
   "courses": [
     {
       "title": "「入門」個性化的網站設計｜一分钟把草图变成真网页？Google Stitch 零基础教程",
       "url": "https://member.pathunfold.com/c/423681/sections/929513/lessons/3652294",
       "date": "2026-03-26T09:17:44.649Z",
       "type": "lesson",
-      "space_name": "即學即用",
+      "space_name": "即學即用（快速課程）",
       "space_id": 2505270
+    },
+    {
+      "title": "歡迎｜獲取和安裝Skill",
+      "url": "https://member.pathunfold.com/c/skill/sections/957609/lessons/3651391",
+      "date": "2026-03-26T05:47:45.710Z",
+      "type": "lesson",
+      "space_name": "自動打字機(板書)Skill",
+      "space_id": 2547118
+    },
+    {
+      "title": "複式記賬入門｜用可視化 Dashboard 掌握你的財務全貌",
+      "url": "https://member.pathunfold.com/c/ai-first-accounting/sections/959711/lessons/3637573",
+      "date": "2026-03-24T01:41:02.745Z",
+      "type": "lesson",
+      "space_name": "「初級以上」AI-first 財務與記賬繫統",
+      "space_id": 2521488
+    },
+    {
+      "title": "複式記賬入門｜將銀行帳單批量導入 Beancount",
+      "url": "https://member.pathunfold.com/c/ai-first-accounting/sections/959711/lessons/3637572",
+      "date": "2026-03-24T01:40:54.499Z",
+      "type": "lesson",
+      "space_name": "「初級以上」AI-first 財務與記賬繫統",
+      "space_id": 2521488
+    },
+    {
+      "title": "複式記賬入門｜用 AI 快速搭建複式記賬系統",
+      "url": "https://member.pathunfold.com/c/ai-first-accounting/sections/959711/lessons/3637571",
+      "date": "2026-03-24T01:40:39.828Z",
+      "type": "lesson",
+      "space_name": "「初級以上」AI-first 財務與記賬繫統",
+      "space_id": 2521488
+    },
+    {
+      "title": "複式記賬入門｜從單式流水帳到複式記賬的進階",
+      "url": "https://member.pathunfold.com/c/ai-first-accounting/sections/959711/lessons/3637570",
+      "date": "2026-03-24T01:40:31.967Z",
+      "type": "lesson",
+      "space_name": "「初級以上」AI-first 財務與記賬繫統",
+      "space_id": 2521488
+    },
+    {
+      "title": "積木模組（Building Blocks）｜2.12 音效切換：打字的質感",
+      "url": "https://member.pathunfold.com/c/skill/sections/957610/lessons/3630662",
+      "date": "2026-03-22T05:22:37.392Z",
+      "type": "lesson",
+      "space_name": "自動打字機(板書)Skill",
+      "space_id": 2547118
+    },
+    {
+      "title": "下一步｜更多进阶教程在付費社群 → 加入用AI發電(special offer)",
+      "url": "https://member.pathunfold.com/c/skill/sections/957611/lessons/3630434",
+      "date": "2026-03-22T02:18:39.104Z",
+      "type": "lesson",
+      "space_name": "自動打字機(板書)Skill",
+      "space_id": 2547118
+    },
+    {
+      "title": "積木模組（Building Blocks）｜2.11 主題切換：八種可能性",
+      "url": "https://member.pathunfold.com/c/skill/sections/957610/lessons/3630433",
+      "date": "2026-03-22T02:18:38.513Z",
+      "type": "lesson",
+      "space_name": "自動打字機(板書)Skill",
+      "space_id": 2547118
+    },
+    {
+      "title": "積木模組（Building Blocks）｜2.10 游標跳轉：回頭補一句",
+      "url": "https://member.pathunfold.com/c/skill/sections/957610/lessons/3630432",
+      "date": "2026-03-22T02:18:37.934Z",
+      "type": "lesson",
+      "space_name": "自動打字機(板書)Skill",
+      "space_id": 2547118
+    },
+    {
+      "title": "積木模組（Building Blocks）｜2.9 程式碼高亮：自帶顏色",
+      "url": "https://member.pathunfold.com/c/skill/sections/957610/lessons/3630431",
+      "date": "2026-03-22T02:18:37.388Z",
+      "type": "lesson",
+      "space_name": "自動打字機(板書)Skill",
+      "space_id": 2547118
+    },
+    {
+      "title": "積木模組（Building Blocks）｜2.8 動畫勾選：完成的滿足感",
+      "url": "https://member.pathunfold.com/c/skill/sections/957610/lessons/3630430",
+      "date": "2026-03-22T02:18:36.773Z",
+      "type": "lesson",
+      "space_name": "自動打字機(板書)Skill",
+      "space_id": 2547118
+    },
+    {
+      "title": "積木模組（Building Blocks）｜2.7 圖片插入：一圖勝千言",
+      "url": "https://member.pathunfold.com/c/skill/sections/957610/lessons/3630429",
+      "date": "2026-03-22T02:18:36.266Z",
+      "type": "lesson",
+      "space_name": "自動打字機(板書)Skill",
+      "space_id": 2547118
+    },
+    {
+      "title": "積木模組（Building Blocks）｜2.6 檔案切換：翻到新一頁",
+      "url": "https://member.pathunfold.com/c/skill/sections/957610/lessons/3630428",
+      "date": "2026-03-22T02:18:35.651Z",
+      "type": "lesson",
+      "space_name": "自動打字機(板書)Skill",
+      "space_id": 2547118
+    },
+    {
+      "title": "積木模組（Building Blocks）｜2.5 中文輸入法：斟酌用詞",
+      "url": "https://member.pathunfold.com/c/skill/sections/957610/lessons/3630427",
+      "date": "2026-03-22T02:18:35.046Z",
+      "type": "lesson",
+      "space_name": "自動打字機(板書)Skill",
+      "space_id": 2547118
+    },
+    {
+      "title": "積木模組（Building Blocks）｜2.4 Emoji 搜尋面板：情緒印章",
+      "url": "https://member.pathunfold.com/c/skill/sections/957610/lessons/3630426",
+      "date": "2026-03-22T02:18:34.458Z",
+      "type": "lesson",
+      "space_name": "自動打字機(板書)Skill",
+      "space_id": 2547118
+    },
+    {
+      "title": "積木模組（Building Blocks）｜2.3 刪除線：敘事反轉",
+      "url": "https://member.pathunfold.com/c/skill/sections/957610/lessons/3630425",
+      "date": "2026-03-22T02:18:33.891Z",
+      "type": "lesson",
+      "space_name": "自動打字機(板書)Skill",
+      "space_id": 2547118
+    },
+    {
+      "title": "積木模組（Building Blocks）｜2.2 鬼影文字：預見力",
+      "url": "https://member.pathunfold.com/c/skill/sections/957610/lessons/3630424",
+      "date": "2026-03-22T02:18:33.288Z",
+      "type": "lesson",
+      "space_name": "自動打字機(板書)Skill",
+      "space_id": 2547118
+    },
+    {
+      "title": "積木模組（Building Blocks）｜2.1 四種打字速度 = 四種情緒",
+      "url": "https://member.pathunfold.com/c/skill/sections/957610/lessons/3630423",
+      "date": "2026-03-22T02:18:32.661Z",
+      "type": "lesson",
+      "space_name": "自動打字機(板書)Skill",
+      "space_id": 2547118
+    },
+    {
+      "title": "歡迎｜Typewriter Video 是什麼：效果展示",
+      "url": "https://member.pathunfold.com/c/skill/sections/957609/lessons/3630422",
+      "date": "2026-03-22T02:18:32.070Z",
+      "type": "lesson",
+      "space_name": "自動打字機(板書)Skill",
+      "space_id": 2547118
     },
     {
       "title": "构建小程序mvp版本 (实战篇) 下｜14 实战对接 AI 大模型",
       "url": "https://member.pathunfold.com/c/windows-vibe-coding/sections/954522/lessons/3617979",
       "date": "2026-03-19T03:01:50.007Z",
       "type": "lesson",
-      "space_name": "小程序+Windows系統Vibe Coding專區",
+      "space_name": "「入門/初級」小程序+Windows系統Vibe Coding專區",
       "space_id": 2292229
     },
     {
@@ -24,7 +177,7 @@
       "url": "https://member.pathunfold.com/c/windows-vibe-coding/sections/954522/lessons/3617978",
       "date": "2026-03-19T03:01:48.796Z",
       "type": "lesson",
-      "space_name": "小程序+Windows系統Vibe Coding專區",
+      "space_name": "「入門/初級」小程序+Windows系統Vibe Coding專區",
       "space_id": 2292229
     },
     {
@@ -32,7 +185,7 @@
       "url": "https://member.pathunfold.com/c/windows-vibe-coding/sections/954522/lessons/3617977",
       "date": "2026-03-19T03:01:47.420Z",
       "type": "lesson",
-      "space_name": "小程序+Windows系統Vibe Coding專區",
+      "space_name": "「入門/初級」小程序+Windows系統Vibe Coding專區",
       "space_id": 2292229
     },
     {
@@ -40,7 +193,7 @@
       "url": "https://member.pathunfold.com/c/windows-vibe-coding/sections/954522/lessons/3617976",
       "date": "2026-03-19T03:01:45.815Z",
       "type": "lesson",
-      "space_name": "小程序+Windows系統Vibe Coding專區",
+      "space_name": "「入門/初級」小程序+Windows系統Vibe Coding專區",
       "space_id": 2292229
     },
     {
@@ -48,7 +201,7 @@
       "url": "https://member.pathunfold.com/c/windows-vibe-coding/sections/954522/lessons/3617975",
       "date": "2026-03-19T03:01:44.658Z",
       "type": "lesson",
-      "space_name": "小程序+Windows系統Vibe Coding專區",
+      "space_name": "「入門/初級」小程序+Windows系統Vibe Coding專區",
       "space_id": 2292229
     },
     {
@@ -56,7 +209,7 @@
       "url": "https://member.pathunfold.com/c/windows-vibe-coding/sections/954522/lessons/3617974",
       "date": "2026-03-19T03:01:43.015Z",
       "type": "lesson",
-      "space_name": "小程序+Windows系統Vibe Coding專區",
+      "space_name": "「入門/初級」小程序+Windows系統Vibe Coding專區",
       "space_id": 2292229
     },
     {
@@ -64,15 +217,95 @@
       "url": "https://member.pathunfold.com/c/windows-vibe-coding/sections/954522/lessons/3617973",
       "date": "2026-03-19T03:01:41.673Z",
       "type": "lesson",
-      "space_name": "小程序+Windows系統Vibe Coding專區",
+      "space_name": "「入門/初級」小程序+Windows系統Vibe Coding專區",
       "space_id": 2292229
+    },
+    {
+      "title": "用 NotebookLM 做 PPT｜審查與修訂生成效果",
+      "url": "https://member.pathunfold.com/c/ai-ppt/sections/953011/lessons/3612224",
+      "date": "2026-03-18T09:48:36.717Z",
+      "type": "lesson",
+      "space_name": "「入門/初级」用 AI 做 PPT",
+      "space_id": 2541155
+    },
+    {
+      "title": "用 NotebookLM 做 PPT｜從知識庫到簡報大綱",
+      "url": "https://member.pathunfold.com/c/ai-ppt/sections/953011/lessons/3612223",
+      "date": "2026-03-18T09:48:33.620Z",
+      "type": "lesson",
+      "space_name": "「入門/初级」用 AI 做 PPT",
+      "space_id": 2541155
+    },
+    {
+      "title": "用 HTML 做 PPT｜在簡報中插入圖片",
+      "url": "https://member.pathunfold.com/c/ai-ppt/sections/953010/lessons/3612222",
+      "date": "2026-03-18T09:48:29.139Z",
+      "type": "lesson",
+      "space_name": "「入門/初级」用 AI 做 PPT",
+      "space_id": 2541155
+    },
+    {
+      "title": "用 HTML 做 PPT｜Progressive Reveal 逐步揭示動畫",
+      "url": "https://member.pathunfold.com/c/ai-ppt/sections/953010/lessons/3612221",
+      "date": "2026-03-18T09:48:27.211Z",
+      "type": "lesson",
+      "space_name": "「入門/初级」用 AI 做 PPT",
+      "space_id": 2541155
+    },
+    {
+      "title": "快速上手｜AI 一句話生成精美簡報",
+      "url": "https://member.pathunfold.com/c/ai-ppt/sections/953009/lessons/3612220",
+      "date": "2026-03-18T09:48:24.274Z",
+      "type": "lesson",
+      "space_name": "「入門/初级」用 AI 做 PPT",
+      "space_id": 2541155
+    },
+    {
+      "title": "快速上手｜課程總覽：用 AI 做 PPT",
+      "url": "https://member.pathunfold.com/c/ai-ppt/sections/953009/lessons/3612219",
+      "date": "2026-03-18T09:48:23.044Z",
+      "type": "lesson",
+      "space_name": "「入門/初级」用 AI 做 PPT",
+      "space_id": 2541155
+    },
+    {
+      "title": "AI 記賬實戰｜AI 記賬實戰：Dashboard 可視化與課程複盤",
+      "url": "https://member.pathunfold.com/c/ai-first-accounting/sections/948785/lessons/3596926",
+      "date": "2026-03-15T02:43:37.977Z",
+      "type": "lesson",
+      "space_name": "「初級以上」AI-first 財務與記賬繫統",
+      "space_id": 2521488
+    },
+    {
+      "title": "AI 記賬實戰｜AI 記賬實戰：數據轉換與 CSV 標準化輸出",
+      "url": "https://member.pathunfold.com/c/ai-first-accounting/sections/948785/lessons/3596925",
+      "date": "2026-03-15T02:41:27.163Z",
+      "type": "lesson",
+      "space_name": "「初級以上」AI-first 財務與記賬繫統",
+      "space_id": 2521488
+    },
+    {
+      "title": "AI 記賬實戰｜AI 記賬實戰：用 Folder as an App 建立你的記賬系統",
+      "url": "https://member.pathunfold.com/c/ai-first-accounting/sections/948785/lessons/3596924",
+      "date": "2026-03-15T02:40:20.484Z",
+      "type": "lesson",
+      "space_name": "「初級以上」AI-first 財務與記賬繫統",
+      "space_id": 2521488
+    },
+    {
+      "title": "AI 記賬系統介紹：為什麼你需要 AI-First 的財務系統｜AI 記賬系統介紹：為什麼你需要 AI-First 的財務系統",
+      "url": "https://member.pathunfold.com/c/ai-first-accounting/sections/948701/lessons/3596525",
+      "date": "2026-03-14T22:44:19.963Z",
+      "type": "lesson",
+      "space_name": "「初級以上」AI-first 財務與記賬繫統",
+      "space_id": 2521488
     },
     {
       "title": "构建小程序mvp版本 (实战篇) 上｜08 对接百度发音api",
       "url": "https://member.pathunfold.com/c/windows-vibe-coding/sections/940580/lessons/3566054",
       "date": "2026-03-09T05:35:02.581Z",
       "type": "lesson",
-      "space_name": "小程序+Windows系統Vibe Coding專區",
+      "space_name": "「入門/初級」小程序+Windows系統Vibe Coding專區",
       "space_id": 2292229
     },
     {
@@ -80,7 +313,7 @@
       "url": "https://member.pathunfold.com/c/windows-vibe-coding/sections/940580/lessons/3566053",
       "date": "2026-03-09T05:34:49.656Z",
       "type": "lesson",
-      "space_name": "小程序+Windows系統Vibe Coding專區",
+      "space_name": "「入門/初級」小程序+Windows系統Vibe Coding專區",
       "space_id": 2292229
     },
     {
@@ -88,7 +321,7 @@
       "url": "https://member.pathunfold.com/c/windows-vibe-coding/sections/940580/lessons/3566052",
       "date": "2026-03-09T05:34:33.541Z",
       "type": "lesson",
-      "space_name": "小程序+Windows系統Vibe Coding專區",
+      "space_name": "「入門/初級」小程序+Windows系統Vibe Coding專區",
       "space_id": 2292229
     },
     {
@@ -96,7 +329,7 @@
       "url": "https://member.pathunfold.com/c/windows-vibe-coding/sections/940580/lessons/3566051",
       "date": "2026-03-09T05:34:17.921Z",
       "type": "lesson",
-      "space_name": "小程序+Windows系統Vibe Coding專區",
+      "space_name": "「入門/初級」小程序+Windows系統Vibe Coding專區",
       "space_id": 2292229
     },
     {
@@ -104,7 +337,7 @@
       "url": "https://member.pathunfold.com/c/windows-vibe-coding/sections/940580/lessons/3566050",
       "date": "2026-03-09T05:34:02.805Z",
       "type": "lesson",
-      "space_name": "小程序+Windows系統Vibe Coding專區",
+      "space_name": "「入門/初級」小程序+Windows系統Vibe Coding專區",
       "space_id": 2292229
     },
     {
@@ -112,7 +345,7 @@
       "url": "https://member.pathunfold.com/c/windows-vibe-coding/sections/940580/lessons/3566049",
       "date": "2026-03-09T05:33:55.234Z",
       "type": "lesson",
-      "space_name": "小程序+Windows系統Vibe Coding專區",
+      "space_name": "「入門/初級」小程序+Windows系統Vibe Coding專區",
       "space_id": 2292229
     },
     {
@@ -120,7 +353,7 @@
       "url": "https://member.pathunfold.com/c/windows-vibe-coding/sections/940580/lessons/3566047",
       "date": "2026-03-09T05:33:34.834Z",
       "type": "lesson",
-      "space_name": "小程序+Windows系統Vibe Coding專區",
+      "space_name": "「入門/初級」小程序+Windows系統Vibe Coding專區",
       "space_id": 2292229
     },
     {
@@ -128,7 +361,7 @@
       "url": "https://member.pathunfold.com/c/windows-vibe-coding/sections/940580/lessons/3566046",
       "date": "2026-03-09T05:33:21.609Z",
       "type": "lesson",
-      "space_name": "小程序+Windows系統Vibe Coding專區",
+      "space_name": "「入門/初級」小程序+Windows系統Vibe Coding專區",
       "space_id": 2292229
     },
     {
@@ -136,23 +369,63 @@
       "url": "https://member.pathunfold.com/c/windows-vibe-coding/sections/940580/lessons/3566045",
       "date": "2026-03-09T05:33:00.161Z",
       "type": "lesson",
-      "space_name": "小程序+Windows系統Vibe Coding專區",
+      "space_name": "「入門/初級」小程序+Windows系統Vibe Coding專區",
       "space_id": 2292229
+    },
+    {
+      "title": "5. 用視頻復刻視頻｜用視頻復刻視頻 | 社交媒體貼文卡片動畫 (下) 修正logo",
+      "url": "https://member.pathunfold.com/c/remotion/sections/936034/lessons/3565271",
+      "date": "2026-03-08T23:34:45.957Z",
+      "type": "lesson",
+      "space_name": "「初級以上」用 AI 寫程式做影片(Claude Code+Remotion)",
+      "space_id": 2471410
     },
     {
       "title": "iOS App 開發 101 - Part 5 - 自动化上架 app store 填表｜App Store 截圖和上傳 AI 自動化",
       "url": "https://member.pathunfold.com/c/ios-app-101/sections/937472/lessons/3554579",
       "date": "2026-03-05T22:39:19.834Z",
       "type": "lesson",
-      "space_name": "iOS app 開發 101",
+      "space_name": "「初級以上」iOS app 開發 101",
       "space_id": 2314452
+    },
+    {
+      "title": "5. 用視頻復刻視頻｜2. 用視頻復刻視頻 | 社交媒體貼文卡片動畫",
+      "url": "https://member.pathunfold.com/c/remotion/sections/936034/lessons/3550229",
+      "date": "2026-03-05T05:23:21.762Z",
+      "type": "lesson",
+      "space_name": "「初級以上」用 AI 寫程式做影片(Claude Code+Remotion)",
+      "space_id": 2471410
+    },
+    {
+      "title": "5. 用視頻復刻視頻｜1. 用視頻連結復刻視頻 ｜ 卡片對比清單動畫",
+      "url": "https://member.pathunfold.com/c/remotion/sections/936034/lessons/3550228",
+      "date": "2026-03-05T05:23:07.932Z",
+      "type": "lesson",
+      "space_name": "「初級以上」用 AI 寫程式做影片(Claude Code+Remotion)",
+      "space_id": 2471410
+    },
+    {
+      "title": "4. 用截圖複刻動畫｜2. 截圖複刻小Lin說數據高光動畫｜改1個數字控制高光行數",
+      "url": "https://member.pathunfold.com/c/remotion/sections/930984/lessons/3545618",
+      "date": "2026-03-04T15:45:23.182Z",
+      "type": "lesson",
+      "space_name": "「初級以上」用 AI 寫程式做影片(Claude Code+Remotion)",
+      "space_id": 2471410
+    },
+    {
+      "title": "4. 用截圖複刻動畫｜1. 用截圖複刻小Lin說黃金排行榜動畫",
+      "url": "https://member.pathunfold.com/c/remotion/sections/930984/lessons/3528981",
+      "date": "2026-03-02T01:14:12.194Z",
+      "type": "lesson",
+      "space_name": "「初級以上」用 AI 寫程式做影片(Claude Code+Remotion)",
+      "space_id": 2471410
     },
     {
       "title": "「入門」AI工具箱｜免費使用 Spokenly+Elevenlabs 進行高效語音輸入",
       "url": "https://member.pathunfold.com/c/423681/sections/929516/lessons/3523692",
       "date": "2026-02-28T01:17:37.018Z",
       "type": "lesson",
-      "space_name": "即學即用",
+      "space_name": "即學即用（快速課程）",
       "space_id": 2505270
     },
     {
@@ -160,7 +433,7 @@
       "url": "https://member.pathunfold.com/c/423681/sections/927012/lessons/3515082",
       "date": "2026-02-26T12:17:44.401Z",
       "type": "lesson",
-      "space_name": "即學即用",
+      "space_name": "即學即用（快速課程）",
       "space_id": 2505270
     },
     {
@@ -168,7 +441,7 @@
       "url": "https://member.pathunfold.com/c/423681/sections/929510/lessons/3515081",
       "date": "2026-02-26T12:17:43.474Z",
       "type": "lesson",
-      "space_name": "即學即用",
+      "space_name": "即學即用（快速課程）",
       "space_id": 2505270
     },
     {
@@ -176,7 +449,7 @@
       "url": "https://member.pathunfold.com/c/423681/sections/929516/lessons/3515080",
       "date": "2026-02-26T12:17:42.524Z",
       "type": "lesson",
-      "space_name": "即學即用",
+      "space_name": "即學即用（快速課程）",
       "space_id": 2505270
     },
     {
@@ -184,7 +457,7 @@
       "url": "https://member.pathunfold.com/c/423681/sections/929517/lessons/3515079",
       "date": "2026-02-26T12:17:41.571Z",
       "type": "lesson",
-      "space_name": "即學即用",
+      "space_name": "即學即用（快速課程）",
       "space_id": 2505270
     },
     {
@@ -192,7 +465,7 @@
       "url": "https://member.pathunfold.com/c/423681/sections/927218/lessons/3515078",
       "date": "2026-02-26T12:17:40.584Z",
       "type": "lesson",
-      "space_name": "即學即用",
+      "space_name": "即學即用（快速課程）",
       "space_id": 2505270
     },
     {
@@ -200,7 +473,7 @@
       "url": "https://member.pathunfold.com/c/423681/sections/929516/lessons/3515077",
       "date": "2026-02-26T12:17:39.628Z",
       "type": "lesson",
-      "space_name": "即學即用",
+      "space_name": "即學即用（快速課程）",
       "space_id": 2505270
     },
     {
@@ -208,7 +481,7 @@
       "url": "https://member.pathunfold.com/c/423681/sections/927012/lessons/3515075",
       "date": "2026-02-26T12:17:38.620Z",
       "type": "lesson",
-      "space_name": "即學即用",
+      "space_name": "即學即用（快速課程）",
       "space_id": 2505270
     },
     {
@@ -216,7 +489,7 @@
       "url": "https://member.pathunfold.com/c/423681/sections/929513/lessons/3515074",
       "date": "2026-02-26T12:17:37.649Z",
       "type": "lesson",
-      "space_name": "即學即用",
+      "space_name": "即學即用（快速課程）",
       "space_id": 2505270
     },
     {
@@ -224,7 +497,7 @@
       "url": "https://member.pathunfold.com/c/423681/sections/927012/lessons/3515073",
       "date": "2026-02-26T12:17:36.649Z",
       "type": "lesson",
-      "space_name": "即學即用",
+      "space_name": "即學即用（快速課程）",
       "space_id": 2505270
     },
     {
@@ -232,7 +505,7 @@
       "url": "https://member.pathunfold.com/c/423681/sections/927012/lessons/3515072",
       "date": "2026-02-26T12:17:35.731Z",
       "type": "lesson",
-      "space_name": "即學即用",
+      "space_name": "即學即用（快速課程）",
       "space_id": 2505270
     },
     {
@@ -240,7 +513,7 @@
       "url": "https://member.pathunfold.com/c/423681/sections/929516/lessons/3515071",
       "date": "2026-02-26T12:17:34.783Z",
       "type": "lesson",
-      "space_name": "即學即用",
+      "space_name": "即學即用（快速課程）",
       "space_id": 2505270
     },
     {
@@ -248,7 +521,7 @@
       "url": "https://member.pathunfold.com/c/423681/sections/929517/lessons/3515070",
       "date": "2026-02-26T12:17:33.715Z",
       "type": "lesson",
-      "space_name": "即學即用",
+      "space_name": "即學即用（快速課程）",
       "space_id": 2505270
     },
     {
@@ -256,7 +529,7 @@
       "url": "https://member.pathunfold.com/c/423681/sections/927012/lessons/3515069",
       "date": "2026-02-26T12:17:32.710Z",
       "type": "lesson",
-      "space_name": "即學即用",
+      "space_name": "即學即用（快速課程）",
       "space_id": 2505270
     },
     {
@@ -264,7 +537,7 @@
       "url": "https://member.pathunfold.com/c/423681/sections/927214/lessons/3515068",
       "date": "2026-02-26T12:17:31.712Z",
       "type": "lesson",
-      "space_name": "即學即用",
+      "space_name": "即學即用（快速課程）",
       "space_id": 2505270
     },
     {
@@ -272,7 +545,7 @@
       "url": "https://member.pathunfold.com/c/423681/sections/929510/lessons/3515067",
       "date": "2026-02-26T12:17:30.723Z",
       "type": "lesson",
-      "space_name": "即學即用",
+      "space_name": "即學即用（快速課程）",
       "space_id": 2505270
     },
     {
@@ -280,7 +553,7 @@
       "url": "https://member.pathunfold.com/c/423681/sections/929510/lessons/3515066",
       "date": "2026-02-26T12:17:29.737Z",
       "type": "lesson",
-      "space_name": "即學即用",
+      "space_name": "即學即用（快速課程）",
       "space_id": 2505270
     },
     {
@@ -288,7 +561,7 @@
       "url": "https://member.pathunfold.com/c/423681/sections/929517/lessons/3515065",
       "date": "2026-02-26T12:17:28.778Z",
       "type": "lesson",
-      "space_name": "即學即用",
+      "space_name": "即學即用（快速課程）",
       "space_id": 2505270
     },
     {
@@ -296,7 +569,7 @@
       "url": "https://member.pathunfold.com/c/423681/sections/927218/lessons/3515064",
       "date": "2026-02-26T12:17:27.832Z",
       "type": "lesson",
-      "space_name": "即學即用",
+      "space_name": "即學即用（快速課程）",
       "space_id": 2505270
     },
     {
@@ -304,7 +577,7 @@
       "url": "https://member.pathunfold.com/c/423681/sections/927218/lessons/3515063",
       "date": "2026-02-26T12:17:26.832Z",
       "type": "lesson",
-      "space_name": "即學即用",
+      "space_name": "即學即用（快速課程）",
       "space_id": 2505270
     },
     {
@@ -312,7 +585,7 @@
       "url": "https://member.pathunfold.com/c/423681/sections/927218/lessons/3515062",
       "date": "2026-02-26T12:17:25.907Z",
       "type": "lesson",
-      "space_name": "即學即用",
+      "space_name": "即學即用（快速課程）",
       "space_id": 2505270
     },
     {
@@ -320,7 +593,7 @@
       "url": "https://member.pathunfold.com/c/423681/sections/929519/lessons/3515061",
       "date": "2026-02-26T12:17:25.017Z",
       "type": "lesson",
-      "space_name": "即學即用",
+      "space_name": "即學即用（快速課程）",
       "space_id": 2505270
     },
     {
@@ -328,7 +601,7 @@
       "url": "https://member.pathunfold.com/c/423681/sections/927218/lessons/3515060",
       "date": "2026-02-26T12:17:24.072Z",
       "type": "lesson",
-      "space_name": "即學即用",
+      "space_name": "即學即用（快速課程）",
       "space_id": 2505270
     },
     {
@@ -336,7 +609,7 @@
       "url": "https://member.pathunfold.com/c/423681/sections/929513/lessons/3515058",
       "date": "2026-02-26T12:17:22.968Z",
       "type": "lesson",
-      "space_name": "即學即用",
+      "space_name": "即學即用（快速課程）",
       "space_id": 2505270
     },
     {
@@ -344,7 +617,7 @@
       "url": "https://member.pathunfold.com/c/423681/sections/927214/lessons/3515057",
       "date": "2026-02-26T12:17:21.998Z",
       "type": "lesson",
-      "space_name": "即學即用",
+      "space_name": "即學即用（快速課程）",
       "space_id": 2505270
     },
     {
@@ -352,7 +625,7 @@
       "url": "https://member.pathunfold.com/c/423681/sections/927214/lessons/3515056",
       "date": "2026-02-26T12:17:21.024Z",
       "type": "lesson",
-      "space_name": "即學即用",
+      "space_name": "即學即用（快速課程）",
       "space_id": 2505270
     },
     {
@@ -360,7 +633,7 @@
       "url": "https://member.pathunfold.com/c/423681/sections/929517/lessons/3515055",
       "date": "2026-02-26T12:17:19.920Z",
       "type": "lesson",
-      "space_name": "即學即用",
+      "space_name": "即學即用（快速課程）",
       "space_id": 2505270
     },
     {
@@ -368,7 +641,7 @@
       "url": "https://member.pathunfold.com/c/423681/sections/929517/lessons/3515054",
       "date": "2026-02-26T12:17:18.924Z",
       "type": "lesson",
-      "space_name": "即學即用",
+      "space_name": "即學即用（快速課程）",
       "space_id": 2505270
     },
     {
@@ -376,7 +649,7 @@
       "url": "https://member.pathunfold.com/c/423681/sections/927218/lessons/3515008",
       "date": "2026-02-26T12:02:16.389Z",
       "type": "lesson",
-      "space_name": "即學即用",
+      "space_name": "即學即用（快速課程）",
       "space_id": 2505270
     },
     {
@@ -384,8 +657,216 @@
       "url": "https://member.pathunfold.com/c/windows-vibe-coding/sections/925175/lessons/3506697",
       "date": "2026-02-25T07:35:51.241Z",
       "type": "lesson",
-      "space_name": "小程序+Windows系統Vibe Coding專區",
+      "space_name": "「入門/初級」小程序+Windows系統Vibe Coding專區",
       "space_id": 2292229
+    },
+    {
+      "title": "實戰：構建會議時間同步工具 - 規範驅動開發（SDD）- Sped Driven Development｜第 6 課 - 總複習",
+      "url": "https://member.pathunfold.com/c/sdd-ai/sections/921853/lessons/3492582",
+      "date": "2026-02-22T21:46:57.826Z",
+      "type": "lesson",
+      "space_name": "「初級以上」規範驅動開發（SDD）讓 AI 更容易實現你的需求",
+      "space_id": 2498427
+    },
+    {
+      "title": "實戰：構建會議時間同步工具 - 規範驅動開發（SDD）- Sped Driven Development｜第 5 課 - 最終驗證",
+      "url": "https://member.pathunfold.com/c/sdd-ai/sections/921853/lessons/3492561",
+      "date": "2026-02-22T21:27:30.565Z",
+      "type": "lesson",
+      "space_name": "「初級以上」規範驅動開發（SDD）讓 AI 更容易實現你的需求",
+      "space_id": 2498427
+    },
+    {
+      "title": "實戰：構建會議時間同步工具 - 規範驅動開發（SDD）- Sped Driven Development｜第 4 課 - Vercel 部署與除錯",
+      "url": "https://member.pathunfold.com/c/sdd-ai/sections/921853/lessons/3492554",
+      "date": "2026-02-22T21:23:49.937Z",
+      "type": "lesson",
+      "space_name": "「初級以上」規範驅動開發（SDD）讓 AI 更容易實現你的需求",
+      "space_id": 2498427
+    },
+    {
+      "title": "實戰：構建會議時間同步工具 - 規範驅動開發（SDD）- Sped Driven Development｜第 3 課 - 驗證與 Vercel 部署初始化",
+      "url": "https://member.pathunfold.com/c/sdd-ai/sections/921853/lessons/3492551",
+      "date": "2026-02-22T21:22:51.317Z",
+      "type": "lesson",
+      "space_name": "「初級以上」規範驅動開發（SDD）讓 AI 更容易實現你的需求",
+      "space_id": 2498427
+    },
+    {
+      "title": "實戰：構建會議時間同步工具 - 規範驅動開發（SDD）- Sped Driven Development｜第 2 課 - 審核 Spec 與開始開發",
+      "url": "https://member.pathunfold.com/c/sdd-ai/sections/921853/lessons/3492549",
+      "date": "2026-02-22T21:21:21.891Z",
+      "type": "lesson",
+      "space_name": "「初級以上」規範驅動開發（SDD）讓 AI 更容易實現你的需求",
+      "space_id": 2498427
+    },
+    {
+      "title": "實戰：構建會議時間同步工具 - 規範驅動開發（SDD）- Sped Driven Development｜第 1 課 - 介紹與準備",
+      "url": "https://member.pathunfold.com/c/sdd-ai/sections/921853/lessons/3492546",
+      "date": "2026-02-22T21:19:40.644Z",
+      "type": "lesson",
+      "space_name": "「初級以上」規範驅動開發（SDD）讓 AI 更容易實現你的需求",
+      "space_id": 2498427
+    },
+    {
+      "title": "3. 理解Skills并安装Remotion Skill｜5. 下載 Remotion 模板時同步安裝 Skill",
+      "url": "https://member.pathunfold.com/c/remotion/sections/921125/lessons/3489989",
+      "date": "2026-02-21T22:08:32.958Z",
+      "type": "lesson",
+      "space_name": "「初級以上」用 AI 寫程式做影片(Claude Code+Remotion)",
+      "space_id": 2471410
+    },
+    {
+      "title": "3. 理解Skills并安装Remotion Skill｜4. 在已有的專案中安裝 Remotion Skill",
+      "url": "https://member.pathunfold.com/c/remotion/sections/921125/lessons/3489987",
+      "date": "2026-02-21T22:07:45.770Z",
+      "type": "lesson",
+      "space_name": "「初級以上」用 AI 寫程式做影片(Claude Code+Remotion)",
+      "space_id": 2471410
+    },
+    {
+      "title": "3. 理解Skills并安装Remotion Skill｜3. 最流行的 Skills(排行榜)",
+      "url": "https://member.pathunfold.com/c/remotion/sections/921125/lessons/3489978",
+      "date": "2026-02-21T22:07:17.804Z",
+      "type": "lesson",
+      "space_name": "「初級以上」用 AI 寫程式做影片(Claude Code+Remotion)",
+      "space_id": 2471410
+    },
+    {
+      "title": "3. 理解Skills并安装Remotion Skill｜2. 深入理解 Remotion Skill",
+      "url": "https://member.pathunfold.com/c/remotion/sections/921125/lessons/3489976",
+      "date": "2026-02-21T22:06:39.605Z",
+      "type": "lesson",
+      "space_name": "「初級以上」用 AI 寫程式做影片(Claude Code+Remotion)",
+      "space_id": 2471410
+    },
+    {
+      "title": "3. 理解Skills并安装Remotion Skill｜1. 什麼是 Skills，工作原理",
+      "url": "https://member.pathunfold.com/c/remotion/sections/921125/lessons/3489970",
+      "date": "2026-02-21T22:03:30.294Z",
+      "type": "lesson",
+      "space_name": "「初級以上」用 AI 寫程式做影片(Claude Code+Remotion)",
+      "space_id": 2471410
+    },
+    {
+      "title": "2. 用指令輸出影片-prompt to video｜4. 一句話讓 AI 生成數據柱狀圖動畫",
+      "url": "https://member.pathunfold.com/c/remotion/sections/907128/lessons/3489778",
+      "date": "2026-02-21T21:22:43.040Z",
+      "type": "lesson",
+      "space_name": "「初級以上」用 AI 寫程式做影片(Claude Code+Remotion)",
+      "space_id": 2471410
+    },
+    {
+      "title": "2. 用指令輸出影片-prompt to video｜3. 用 Prompt 生成打字機效果動畫",
+      "url": "https://member.pathunfold.com/c/remotion/sections/907128/lessons/3476124",
+      "date": "2026-02-19T04:42:32.737Z",
+      "type": "lesson",
+      "space_name": "「初級以上」用 AI 寫程式做影片(Claude Code+Remotion)",
+      "space_id": 2471410
+    },
+    {
+      "title": "2. 用指令輸出影片-prompt to video｜2. 文字 Prompt 結構三要素-10秒倒數計時動畫",
+      "url": "https://member.pathunfold.com/c/remotion/sections/907128/lessons/3476099",
+      "date": "2026-02-19T04:32:09.927Z",
+      "type": "lesson",
+      "space_name": "「初級以上」用 AI 寫程式做影片(Claude Code+Remotion)",
+      "space_id": 2471410
+    },
+    {
+      "title": "部署 101 - 資料庫 Database｜Deploy 101 資料庫篇（下）——Supabase 資料庫實作",
+      "url": "https://member.pathunfold.com/c/deploy-101/sections/908100/lessons/3467766",
+      "date": "2026-02-18T02:08:50.328Z",
+      "type": "lesson",
+      "space_name": "「中高級」部署 101",
+      "space_id": 2430318
+    },
+    {
+      "title": "部署 101 - 資料庫 Database｜Deploy 101 資料庫篇（上）——什麼是資料庫？",
+      "url": "https://member.pathunfold.com/c/deploy-101/sections/908100/lessons/3467765",
+      "date": "2026-02-18T02:08:40.918Z",
+      "type": "lesson",
+      "space_name": "「中高級」部署 101",
+      "space_id": 2430318
+    },
+    {
+      "title": "2. 用指令輸出影片-prompt to video｜1. Remotion學習進度條動畫",
+      "url": "https://member.pathunfold.com/c/remotion/sections/907128/lessons/3436282",
+      "date": "2026-02-11T16:11:41.067Z",
+      "type": "lesson",
+      "space_name": "「初級以上」用 AI 寫程式做影片(Claude Code+Remotion)",
+      "space_id": 2471410
+    },
+    {
+      "title": "【高級進階】讓 OpenClaw 管理你的 Google 賬戶（收發郵件，月歷等）｜OpenClaw 連接 Google 帳號（下）——GOG CLI 安裝與帳號授權",
+      "url": "https://member.pathunfold.com/c/openclaw-siri/sections/904490/lessons/3426002",
+      "date": "2026-02-10T01:47:03.867Z",
+      "type": "lesson",
+      "space_name": "「初級以上」OpenClaw 打造屬於你自己的 Siri 個人助理（原 ClawdBot/Moltbot）",
+      "space_id": 2446989
+    },
+    {
+      "title": "【高級進階】讓 OpenClaw 管理你的 Google 賬戶（收發郵件，月歷等）｜OpenClaw 連接 Google 帳號（上）——Google Cloud Dashboard & OAuth 設定",
+      "url": "https://member.pathunfold.com/c/openclaw-siri/sections/904490/lessons/3426000",
+      "date": "2026-02-10T01:45:59.333Z",
+      "type": "lesson",
+      "space_name": "「初級以上」OpenClaw 打造屬於你自己的 Siri 個人助理（原 ClawdBot/Moltbot）",
+      "space_id": 2446989
+    },
+    {
+      "title": "1. 工具安裝與工作流｜7. 項目核心文件結構",
+      "url": "https://member.pathunfold.com/c/remotion/sections/903089/lessons/3420489",
+      "date": "2026-02-08T22:12:17.856Z",
+      "type": "lesson",
+      "space_name": "「初級以上」用 AI 寫程式做影片(Claude Code+Remotion)",
+      "space_id": 2471410
+    },
+    {
+      "title": "1. 工具安裝與工作流｜6. 運行與認識Remotion Studio影片預覽器",
+      "url": "https://member.pathunfold.com/c/remotion/sections/903089/lessons/3420460",
+      "date": "2026-02-08T21:54:47.693Z",
+      "type": "lesson",
+      "space_name": "「初級以上」用 AI 寫程式做影片(Claude Code+Remotion)",
+      "space_id": 2471410
+    },
+    {
+      "title": "1. 工具安裝與工作流｜5. 添加Remotion Skill",
+      "url": "https://member.pathunfold.com/c/remotion/sections/903089/lessons/3419915",
+      "date": "2026-02-08T17:47:21.488Z",
+      "type": "lesson",
+      "space_name": "「初級以上」用 AI 寫程式做影片(Claude Code+Remotion)",
+      "space_id": 2471410
+    },
+    {
+      "title": "1. 工具安裝與工作流｜4. 下載與安裝模板",
+      "url": "https://member.pathunfold.com/c/remotion/sections/903089/lessons/3419898",
+      "date": "2026-02-08T17:36:19.866Z",
+      "type": "lesson",
+      "space_name": "「初級以上」用 AI 寫程式做影片(Claude Code+Remotion)",
+      "space_id": 2471410
+    },
+    {
+      "title": "1. 工具安裝與工作流｜3. 工具介紹",
+      "url": "https://member.pathunfold.com/c/remotion/sections/903089/lessons/3419804",
+      "date": "2026-02-08T17:13:15.648Z",
+      "type": "lesson",
+      "space_name": "「初級以上」用 AI 寫程式做影片(Claude Code+Remotion)",
+      "space_id": 2471410
+    },
+    {
+      "title": "1. 工具安裝與工作流｜2. 代碼做影片的底層原理",
+      "url": "https://member.pathunfold.com/c/remotion/sections/903089/lessons/3419673",
+      "date": "2026-02-08T17:08:13.610Z",
+      "type": "lesson",
+      "space_name": "「初級以上」用 AI 寫程式做影片(Claude Code+Remotion)",
+      "space_id": 2471410
+    },
+    {
+      "title": "1. 工具安裝與工作流｜1. 課程介紹",
+      "url": "https://member.pathunfold.com/c/remotion/sections/903089/lessons/3419582",
+      "date": "2026-02-08T16:46:50.461Z",
+      "type": "lesson",
+      "space_name": "「初級以上」用 AI 寫程式做影片(Claude Code+Remotion)",
+      "space_id": 2471410
     },
     {
       "title": "讓 OpenClaw 與 WhatsApp 聊天軟體連接\n",
@@ -396,12 +877,60 @@
       "space_id": 2453584
     },
     {
+      "title": "【進階】OpenClaw/ClawdBot Docker 知識管理｜OpenClaw 記憶設置：讓 AI 記住你的重要訊息",
+      "url": "https://member.pathunfold.com/c/openclaw-siri/sections/901735/lessons/3415763",
+      "date": "2026-02-07T02:58:18.968Z",
+      "type": "lesson",
+      "space_name": "「初級以上」OpenClaw 打造屬於你自己的 Siri 個人助理（原 ClawdBot/Moltbot）",
+      "space_id": 2446989
+    },
+    {
+      "title": "【進階】OpenClaw/ClawdBot Docker 知識管理｜Obsidian 筆記管理：授予本地文件夾權限給 AI 助理",
+      "url": "https://member.pathunfold.com/c/openclaw-siri/sections/901735/lessons/3415569",
+      "date": "2026-02-07T00:42:17.856Z",
+      "type": "lesson",
+      "space_name": "「初級以上」OpenClaw 打造屬於你自己的 Siri 個人助理（原 ClawdBot/Moltbot）",
+      "space_id": 2446989
+    },
+    {
+      "title": "【進階】OpenClaw/ClawdBot Docker 安裝與本機隔離環境｜OpenClaw Docker 進階設置篇",
+      "url": "https://member.pathunfold.com/c/openclaw-siri/sections/900783/lessons/3412223",
+      "date": "2026-02-06T06:54:24.900Z",
+      "type": "lesson",
+      "space_name": "「初級以上」OpenClaw 打造屬於你自己的 Siri 個人助理（原 ClawdBot/Moltbot）",
+      "space_id": 2446989
+    },
+    {
+      "title": "【進階】OpenClaw/ClawdBot Docker 安裝與本機隔離環境｜OpenClaw Docker 部署基礎篇",
+      "url": "https://member.pathunfold.com/c/openclaw-siri/sections/900783/lessons/3412222",
+      "date": "2026-02-06T06:54:22.190Z",
+      "type": "lesson",
+      "space_name": "「初級以上」OpenClaw 打造屬於你自己的 Siri 個人助理（原 ClawdBot/Moltbot）",
+      "space_id": 2446989
+    },
+    {
       "title": "一句話實現可以下載到手機上的私人播客app——Replit 全棧式開發平台的入門课程「My Mixtape」",
       "url": "https://member.pathunfold.com/c/quick-courses/app-8f107c",
       "date": "2026-02-05T03:34:15.625Z",
       "type": "post",
       "space_name": "快速課程",
       "space_id": 2205110
+    },
+    {
+      "title": "OpenClaw/ClawdBot 進階功能 - 瀏覽器 web 相關進階｜Chrome 多「設定檔」（Profile）入門",
+      "url": "https://member.pathunfold.com/c/openclaw-siri/sections/898439/lessons/3403654",
+      "date": "2026-02-04T15:21:30.059Z",
+      "type": "lesson",
+      "space_name": "「初級以上」OpenClaw 打造屬於你自己的 Siri 個人助理（原 ClawdBot/Moltbot）",
+      "space_id": 2446989
+    },
+    {
+      "title": "OpenClaw/ClawdBot 進階功能 - 瀏覽器 web 相關進階｜Chrome Extension 瀏覽器擴展功能安裝",
+      "url": "https://member.pathunfold.com/c/openclaw-siri/sections/898439/lessons/3403578",
+      "date": "2026-02-04T15:07:31.268Z",
+      "type": "lesson",
+      "space_name": "「初級以上」OpenClaw 打造屬於你自己的 Siri 個人助理（原 ClawdBot/Moltbot）",
+      "space_id": 2446989
     },
     {
       "title": "免费在AWS部署Openclaw：Bot 搬家",
@@ -424,7 +953,7 @@
       "url": "https://member.pathunfold.com/c/windows-vibe-coding/sections/894164/lessons/3387162",
       "date": "2026-02-01T01:17:42.655Z",
       "type": "lesson",
-      "space_name": "小程序+Windows系統Vibe Coding專區",
+      "space_name": "「入門/初級」小程序+Windows系統Vibe Coding專區",
       "space_id": 2292229
     },
     {
@@ -432,7 +961,7 @@
       "url": "https://member.pathunfold.com/c/windows-vibe-coding/sections/894164/lessons/3387161",
       "date": "2026-02-01T01:17:35.116Z",
       "type": "lesson",
-      "space_name": "小程序+Windows系統Vibe Coding專區",
+      "space_name": "「入門/初級」小程序+Windows系統Vibe Coding專區",
       "space_id": 2292229
     },
     {
@@ -440,8 +969,32 @@
       "url": "https://member.pathunfold.com/c/windows-vibe-coding/sections/894164/lessons/3387160",
       "date": "2026-02-01T01:16:25.076Z",
       "type": "lesson",
-      "space_name": "小程序+Windows系統Vibe Coding專區",
+      "space_name": "「入門/初級」小程序+Windows系統Vibe Coding專區",
       "space_id": 2292229
+    },
+    {
+      "title": "OpenClaw/ClawdBot 進階功能 - 配置模型 / 定時任務 / 超級技能｜Agent Skills 技能使用 - 讓你的 AI 充份發揮想象力",
+      "url": "https://member.pathunfold.com/c/openclaw-siri/sections/893877/lessons/3386137",
+      "date": "2026-01-31T19:19:17.880Z",
+      "type": "lesson",
+      "space_name": "「初級以上」OpenClaw 打造屬於你自己的 Siri 個人助理（原 ClawdBot/Moltbot）",
+      "space_id": 2446989
+    },
+    {
+      "title": "OpenClaw/ClawdBot 進階功能 - 配置模型 / 定時任務 / 超級技能｜修改模型 - 使用 OpenAI Codex （ChatGPT plus 訂閱）",
+      "url": "https://member.pathunfold.com/c/openclaw-siri/sections/893877/lessons/3386000",
+      "date": "2026-01-31T18:11:05.907Z",
+      "type": "lesson",
+      "space_name": "「初級以上」OpenClaw 打造屬於你自己的 Siri 個人助理（原 ClawdBot/Moltbot）",
+      "space_id": 2446989
+    },
+    {
+      "title": "OpenClaw/ClawdBot 進階功能 - 配置模型 / 定時任務 / 超級技能｜定時任務（Cron Jobs）添加修改定時任務 -你的新聞日報",
+      "url": "https://member.pathunfold.com/c/openclaw-siri/sections/893877/lessons/3385999",
+      "date": "2026-01-31T18:10:51.748Z",
+      "type": "lesson",
+      "space_name": "「初級以上」OpenClaw 打造屬於你自己的 Siri 個人助理（原 ClawdBot/Moltbot）",
+      "space_id": 2446989
     },
     {
       "title": "小白也能拆解 OpenClaw ：網頁與本地雙重解析實戰",
@@ -532,12 +1085,76 @@
       "space_id": 2453584
     },
     {
+      "title": "開始探索OpenClaw｜發布許願貼",
+      "url": "https://member.pathunfold.com/c/51f020/sections/890836/lessons/3374150",
+      "date": "2026-01-29T08:00:57.966Z",
+      "type": "lesson",
+      "space_name": "由此開始",
+      "space_id": 2453671
+    },
+    {
+      "title": "開始探索OpenClaw｜安裝好OpenClaw",
+      "url": "https://member.pathunfold.com/c/51f020/sections/890836/lessons/3374146",
+      "date": "2026-01-29T07:58:58.172Z",
+      "type": "lesson",
+      "space_name": "由此開始",
+      "space_id": 2453671
+    },
+    {
+      "title": "Clawdbot / OpenClaw 個人助理：常見操作｜ClawdBot / OpenClaw 常用 Slash 命令",
+      "url": "https://member.pathunfold.com/c/openclaw-siri/sections/890282/lessons/3372606",
+      "date": "2026-01-28T22:03:59.826Z",
+      "type": "lesson",
+      "space_name": "「初級以上」OpenClaw 打造屬於你自己的 Siri 個人助理（原 ClawdBot/Moltbot）",
+      "space_id": 2446989
+    },
+    {
+      "title": "Clawdbot / OpenClaw 個人助理：常見操作｜ClawdBot / OpenClaw 常用 CLI 命令",
+      "url": "https://member.pathunfold.com/c/openclaw-siri/sections/890282/lessons/3372598",
+      "date": "2026-01-28T22:02:42.117Z",
+      "type": "lesson",
+      "space_name": "「初級以上」OpenClaw 打造屬於你自己的 Siri 個人助理（原 ClawdBot/Moltbot）",
+      "space_id": 2446989
+    },
+    {
+      "title": "ClawdBot / OpenClaw 入門安裝｜番外：Windows 上安裝",
+      "url": "https://member.pathunfold.com/c/openclaw-siri/sections/886341/lessons/3372357",
+      "date": "2026-01-28T20:43:32.608Z",
+      "type": "lesson",
+      "space_name": "「初級以上」OpenClaw 打造屬於你自己的 Siri 個人助理（原 ClawdBot/Moltbot）",
+      "space_id": 2446989
+    },
+    {
       "title": "花40元快速在腾讯云上搭建 Openclaw",
       "url": "https://member.pathunfold.com/c/0cb560/40-clawdbot-8f2c78",
       "date": "2026-01-28T14:16:20.199Z",
       "type": "post",
       "space_name": "迷你公開課",
       "space_id": 2453584
+    },
+    {
+      "title": "Clawdbot / OpenClaw 開源 AI 個人助理：Slack & Discord｜Clawdbot/OpenClaw x Discord",
+      "url": "https://member.pathunfold.com/c/openclaw-siri/sections/887283/lessons/3360039",
+      "date": "2026-01-26T20:42:46.574Z",
+      "type": "lesson",
+      "space_name": "「初級以上」OpenClaw 打造屬於你自己的 Siri 個人助理（原 ClawdBot/Moltbot）",
+      "space_id": 2446989
+    },
+    {
+      "title": "Clawdbot / OpenClaw 開源 AI 個人助理：Slack & Discord｜Clawdbot/OpenClaw x Slack",
+      "url": "https://member.pathunfold.com/c/openclaw-siri/sections/887283/lessons/3360013",
+      "date": "2026-01-26T20:36:39.801Z",
+      "type": "lesson",
+      "space_name": "「初級以上」OpenClaw 打造屬於你自己的 Siri 個人助理（原 ClawdBot/Moltbot）",
+      "space_id": 2446989
+    },
+    {
+      "title": "ClawdBot / OpenClaw 入門安裝｜課程介紹與入門安裝",
+      "url": "https://member.pathunfold.com/c/openclaw-siri/sections/886341/lessons/3356760",
+      "date": "2026-01-26T05:42:28.435Z",
+      "type": "lesson",
+      "space_name": "「初級以上」OpenClaw 打造屬於你自己的 Siri 個人助理（原 ClawdBot/Moltbot）",
+      "space_id": 2446989
     }
   ]
 }
