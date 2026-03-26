@@ -1,0 +1,33 @@
+name: Refresh Course Data
+
+on:
+  schedule:
+    # Every 6 hours: 00:00, 06:00, 12:00, 18:00 UTC
+    - cron: '0 */6 * * *'
+  workflow_dispatch: # Allow manual trigger
+
+permissions:
+  contents: write
+
+jobs:
+  fetch-and-commit:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Fetch courses from Circle API
+        env:
+          CIRCLE_V2_TOKEN: ${{ secrets.CIRCLE_V2_TOKEN }}
+        run: node scripts/fetch-courses.js
+
+      - name: Commit and push updated data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add public/data/courses.json
+          git diff --cached --quiet || git commit -m "chore: refresh course data [skip ci]"
+          git push

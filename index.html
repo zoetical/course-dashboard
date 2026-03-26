@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>課程更新看板 — 用AI發電</title>
+  <meta name="description" content="用AI發電社群課程更新即時看板，一覽所有最新課程動態。" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&family=Noto+Serif+SC:wght@600;700&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="/style.css" />
+</head>
+<body>
+  <!-- Background grid -->
+  <div class="bg-grid" aria-hidden="true"></div>
+
+  <!-- Navigation -->
+  <header class="nav-bar">
+    <div class="nav-inner">
+      <a href="https://pathunfold.com" class="nav-logo" target="_blank" rel="noopener">
+        <span class="logo-icon">⚡</span>
+        <span class="logo-text">用AI發電</span>
+      </a>
+      <span class="nav-title">課程更新看板</span>
+      <a href="https://member.pathunfold.com" class="nav-cta" target="_blank" rel="noopener">
+        進入社群 →
+      </a>
+    </div>
+  </header>
+
+  <!-- Hero Section -->
+  <section class="hero">
+    <div class="hero-badge">📡 LIVE FEED</div>
+    <h1 class="hero-title">課程更新<br/><span class="hero-highlight">大看板</span></h1>
+    <p class="hero-subtitle">所有課程動態，一目了然。點擊即可跳轉學習。</p>
+    <div class="hero-stats" id="hero-stats">
+      <div class="stat">
+        <span class="stat-num" id="stat-total">—</span>
+        <span class="stat-label">最近更新</span>
+      </div>
+      <div class="stat-divider"></div>
+      <div class="stat">
+        <span class="stat-num" id="stat-courses">—</span>
+        <span class="stat-label">課程空間</span>
+      </div>
+      <div class="stat-divider"></div>
+      <div class="stat">
+        <span class="stat-num" id="stat-updated">—</span>
+        <span class="stat-label">上次刷新</span>
+      </div>
+    </div>
+  </section>
+
+  <!-- Filters -->
+  <section class="filters-section">
+    <div class="filters-container">
+      <div class="filter-group">
+        <button class="filter-btn active" data-filter="all">全部</button>
+        <button class="filter-btn" data-filter="7">近 7 天</button>
+        <button class="filter-btn" data-filter="30">近 30 天</button>
+      </div>
+      <div class="search-box">
+        <span class="search-icon">🔍</span>
+        <input type="text" id="search-input" placeholder="搜索課程名稱..." autocomplete="off" />
+      </div>
+    </div>
+  </section>
+
+  <!-- Course Grid -->
+  <main class="courses-container">
+    <div class="courses-grid" id="courses-grid">
+      <!-- Cards will be rendered here by JS -->
+    </div>
+    <div class="empty-state" id="empty-state" style="display:none;">
+      <div class="empty-icon">📭</div>
+      <p>沒有找到匹配的課程更新</p>
+    </div>
+    <div class="loading-state" id="loading-state">
+      <div class="loading-spinner"></div>
+      <p>正在載入課程資料...</p>
+    </div>
+  </main>
+
+  <!-- Footer -->
+  <footer class="site-footer">
+    <p>© 2025–2026 用AI發電 PathUnfold · 資料每 6 小時自動更新</p>
+  </footer>
+
+  <script type="module" src="/main.js"></script>
+</body>
+</html>
