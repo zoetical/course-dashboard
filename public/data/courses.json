@@ -1,9 +1,36 @@
 {
-  "updated_at": "2026-03-30T02:39:16.857Z",
+  "updated_at": "2026-03-30T07:45:12.407Z",
   "lookback_days": 3650,
-  "total": 373,
+  "total": 376,
   "spaces_monitored": 29,
   "courses": [
+    {
+      "title": "3. 程式碼解析：為什麼背景是透明的？",
+      "url": "https://member.pathunfold.com/c/remotion/sections/967322/lessons/3666696",
+      "date": "2026-03-30T04:19:00.622Z",
+      "type": "lesson",
+      "space_name": "「初級以上」用 AI 寫程式做影片(Claude Code+Remotion)",
+      "space_id": 2471410,
+      "section_name": "6. Overlay 畫中畫 Template"
+    },
+    {
+      "title": "2. iMessage短訊彈窗動畫",
+      "url": "https://member.pathunfold.com/c/remotion/sections/967322/lessons/3666693",
+      "date": "2026-03-30T04:15:27.241Z",
+      "type": "lesson",
+      "space_name": "「初級以上」用 AI 寫程式做影片(Claude Code+Remotion)",
+      "space_id": 2471410,
+      "section_name": "6. Overlay 畫中畫 Template"
+    },
+    {
+      "title": "1. 下載並啟動 Remotion 的 Overlay 模板",
+      "url": "https://member.pathunfold.com/c/remotion/sections/967322/lessons/3666682",
+      "date": "2026-03-30T04:06:40.149Z",
+      "type": "lesson",
+      "space_name": "「初級以上」用 AI 寫程式做影片(Claude Code+Remotion)",
+      "space_id": 2471410,
+      "section_name": "6. Overlay 畫中畫 Template"
+    },
     {
       "title": "一分钟把草图变成真网页？Google Stitch 零基础教程",
       "url": "https://member.pathunfold.com/c/423681/sections/929513/lessons/3652294",
