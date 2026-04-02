@@ -1,9 +1,63 @@
 {
-  "updated_at": "2026-04-01T19:05:20.060Z",
+  "updated_at": "2026-04-02T02:30:15.277Z",
   "lookback_days": 3650,
-  "total": 376,
+  "total": 389,
   "spaces_monitored": 29,
   "courses": [
+    {
+      "title": "课程介绍-Ray的AI创作营开播啦!",
+      "url": "https://member.pathunfold.com/c/ray-ai/sections/954627/lessons/3686750",
+      "date": "2026-04-02T01:36:13.665Z",
+      "type": "lesson",
+      "space_name": "Ray的AI創作營",
+      "space_id": 2543210,
+      "section_name": "課程介紹"
+    },
+    {
+      "title": "字幕翻译Skill-第 5 课：字幕翻译 Skill 部署与安装",
+      "url": "https://member.pathunfold.com/c/ray-ai/sections/963342/lessons/3677610",
+      "date": "2026-03-31T12:23:21.445Z",
+      "type": "lesson",
+      "space_name": "Ray的AI創作營",
+      "space_id": 2543210,
+      "section_name": "字幕制作工作流"
+    },
+    {
+      "title": "字幕翻译Skill-第 4 课：脚本审计、重构封装与自我进化",
+      "url": "https://member.pathunfold.com/c/ray-ai/sections/963342/lessons/3677591",
+      "date": "2026-03-31T12:18:16.458Z",
+      "type": "lesson",
+      "space_name": "Ray的AI創作營",
+      "space_id": 2543210,
+      "section_name": "字幕制作工作流"
+    },
+    {
+      "title": "字幕翻译Skill-第 3 课：无空槽对齐追踪 (Zero-Blank Mapping)",
+      "url": "https://member.pathunfold.com/c/ray-ai/sections/963342/lessons/3677589",
+      "date": "2026-03-31T12:18:15.911Z",
+      "type": "lesson",
+      "space_name": "Ray的AI創作營",
+      "space_id": 2543210,
+      "section_name": "字幕制作工作流"
+    },
+    {
+      "title": "字幕翻译Skill-第 2 课：时间戳解耦算法 (The Scaffold Model)",
+      "url": "https://member.pathunfold.com/c/ray-ai/sections/963342/lessons/3677588",
+      "date": "2026-03-31T12:18:15.467Z",
+      "type": "lesson",
+      "space_name": "Ray的AI創作營",
+      "space_id": 2543210,
+      "section_name": "字幕制作工作流"
+    },
+    {
+      "title": "字幕翻译Skill-第 1 课：AI 翻译长视频的核心挑战与分块策略",
+      "url": "https://member.pathunfold.com/c/ray-ai/sections/963342/lessons/3677587",
+      "date": "2026-03-31T12:18:14.994Z",
+      "type": "lesson",
+      "space_name": "Ray的AI創作營",
+      "space_id": 2543210,
+      "section_name": "字幕制作工作流"
+    },
     {
       "title": "3. 程式碼解析：為什麼背景是透明的？",
       "url": "https://member.pathunfold.com/c/remotion/sections/967322/lessons/3666696",
@@ -32,6 +86,15 @@
       "section_name": "6. Overlay 畫中畫 Template"
     },
     {
+      "title": "ElevenLabs Subtitle Skill 下载和安装",
+      "url": "https://member.pathunfold.com/c/ray-ai/sections/963342/lessons/3652356",
+      "date": "2026-03-26T09:42:05.589Z",
+      "type": "lesson",
+      "space_name": "Ray的AI創作營",
+      "space_id": 2543210,
+      "section_name": "字幕制作工作流"
+    },
+    {
       "title": "一分钟把草图变成真网页？Google Stitch 零基础教程",
       "url": "https://member.pathunfold.com/c/423681/sections/929513/lessons/3652294",
       "date": "2026-03-26T09:17:44.649Z",
@@ -41,6 +104,42 @@
       "section_name": "「入門」個性化的網站設計"
     },
     {
+      "title": "第二课(改进字幕skill)",
+      "url": "https://member.pathunfold.com/c/ray-ai/sections/963342/lessons/3652256",
+      "date": "2026-03-26T09:05:04.342Z",
+      "type": "lesson",
+      "space_name": "Ray的AI創作營",
+      "space_id": 2543210,
+      "section_name": "字幕制作工作流"
+    },
+    {
+      "title": "我的YouTube长影片AI字幕工作流",
+      "url": "https://member.pathunfold.com/c/ray-ai/sections/963342/lessons/3652237",
+      "date": "2026-03-26T08:59:09.177Z",
+      "type": "lesson",
+      "space_name": "Ray的AI創作營",
+      "space_id": 2543210,
+      "section_name": "字幕制作工作流"
+    },
+    {
+      "title": "2.2 Typewriter A-roll Sync 短片段(Part 2)",
+      "url": "https://member.pathunfold.com/c/ray-ai/sections/957592/lessons/3652143",
+      "date": "2026-03-26T08:33:27.242Z",
+      "type": "lesson",
+      "space_name": "Ray的AI創作營",
+      "space_id": 2543210,
+      "section_name": "自動板書(Typewriter Video)"
+    },
+    {
+      "title": "2.1 Typewriter A-roll Sync 短片段（Part 1）",
+      "url": "https://member.pathunfold.com/c/ray-ai/sections/957592/lessons/3651951",
+      "date": "2026-03-26T08:02:22.878Z",
+      "type": "lesson",
+      "space_name": "Ray的AI創作營",
+      "space_id": 2543210,
+      "section_name": "自動板書(Typewriter Video)"
+    },
+    {
       "title": "獲取和安裝Skill",
       "url": "https://member.pathunfold.com/c/skill/sections/957609/lessons/3651391",
       "date": "2026-03-26T05:47:45.710Z",
@@ -48,6 +147,15 @@
       "space_name": "自動打字機(板書)Skill",
       "space_id": 2547118,
       "section_name": "歡迎"
+    },
+    {
+      "title": "1.0 如何获取和安装Typewriter Video Skill",
+      "url": "https://member.pathunfold.com/c/ray-ai/sections/957592/lessons/3651390",
+      "date": "2026-03-26T05:45:55.558Z",
+      "type": "lesson",
+      "space_name": "Ray的AI創作營",
+      "space_id": 2543210,
+      "section_name": "自動板書(Typewriter Video)"
     },
     {
       "title": "用可視化 Dashboard 掌握你的財務全貌",
@@ -95,7 +203,7 @@
       "section_name": "積木模組（Building Blocks）"
     },
     {
-      "title": "更多进阶教程在付費社群 → 加入用AI發電(special offer)",
+      "title": "Ray的AI創作營(special offer)",
       "url": "https://member.pathunfold.com/c/skill/sections/957611/lessons/3630434",
       "date": "2026-03-22T02:18:39.104Z",
       "type": "lesson",
@@ -210,6 +318,15 @@
       "space_name": "自動打字機(板書)Skill",
       "space_id": 2547118,
       "section_name": "歡迎"
+    },
+    {
+      "title": "1.1 Typewriter Video和Building Blocks(13 videos)",
+      "url": "https://member.pathunfold.com/c/ray-ai/sections/957592/lessons/3630324",
+      "date": "2026-03-22T01:29:34.163Z",
+      "type": "lesson",
+      "space_name": "Ray的AI創作營",
+      "space_id": 2543210,
+      "section_name": "自動板書(Typewriter Video)"
     },
     {
       "title": "14 实战对接 AI 大模型",
