@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-04-02T02:30:15.277Z",
+  "updated_at": "2026-04-02T02:55:32.048Z",
   "lookback_days": 3650,
-  "total": 389,
-  "spaces_monitored": 29,
+  "total": 374,
+  "spaces_monitored": 28,
   "courses": [
     {
       "title": "课程介绍-Ray的AI创作营开播啦!",
@@ -140,15 +140,6 @@
       "section_name": "自動板書(Typewriter Video)"
     },
     {
-      "title": "獲取和安裝Skill",
-      "url": "https://member.pathunfold.com/c/skill/sections/957609/lessons/3651391",
-      "date": "2026-03-26T05:47:45.710Z",
-      "type": "lesson",
-      "space_name": "自動打字機(板書)Skill",
-      "space_id": 2547118,
-      "section_name": "歡迎"
-    },
-    {
       "title": "1.0 如何获取和安装Typewriter Video Skill",
       "url": "https://member.pathunfold.com/c/ray-ai/sections/957592/lessons/3651390",
       "date": "2026-03-26T05:45:55.558Z",
@@ -192,132 +183,6 @@
       "space_name": "「初級以上」AI-first 財務與記賬繫統",
       "space_id": 2521488,
       "section_name": "複式記賬入門"
-    },
-    {
-      "title": "2.12 音效切換：打字的質感",
-      "url": "https://member.pathunfold.com/c/skill/sections/957610/lessons/3630662",
-      "date": "2026-03-22T05:22:37.392Z",
-      "type": "lesson",
-      "space_name": "自動打字機(板書)Skill",
-      "space_id": 2547118,
-      "section_name": "積木模組（Building Blocks）"
-    },
-    {
-      "title": "Ray的AI創作營(special offer)",
-      "url": "https://member.pathunfold.com/c/skill/sections/957611/lessons/3630434",
-      "date": "2026-03-22T02:18:39.104Z",
-      "type": "lesson",
-      "space_name": "自動打字機(板書)Skill",
-      "space_id": 2547118,
-      "section_name": "下一步"
-    },
-    {
-      "title": "2.11 主題切換：八種可能性",
-      "url": "https://member.pathunfold.com/c/skill/sections/957610/lessons/3630433",
-      "date": "2026-03-22T02:18:38.513Z",
-      "type": "lesson",
-      "space_name": "自動打字機(板書)Skill",
-      "space_id": 2547118,
-      "section_name": "積木模組（Building Blocks）"
-    },
-    {
-      "title": "2.10 游標跳轉：回頭補一句",
-      "url": "https://member.pathunfold.com/c/skill/sections/957610/lessons/3630432",
-      "date": "2026-03-22T02:18:37.934Z",
-      "type": "lesson",
-      "space_name": "自動打字機(板書)Skill",
-      "space_id": 2547118,
-      "section_name": "積木模組（Building Blocks）"
-    },
-    {
-      "title": "2.9 程式碼高亮：自帶顏色",
-      "url": "https://member.pathunfold.com/c/skill/sections/957610/lessons/3630431",
-      "date": "2026-03-22T02:18:37.388Z",
-      "type": "lesson",
-      "space_name": "自動打字機(板書)Skill",
-      "space_id": 2547118,
-      "section_name": "積木模組（Building Blocks）"
-    },
-    {
-      "title": "2.8 動畫勾選：完成的滿足感",
-      "url": "https://member.pathunfold.com/c/skill/sections/957610/lessons/3630430",
-      "date": "2026-03-22T02:18:36.773Z",
-      "type": "lesson",
-      "space_name": "自動打字機(板書)Skill",
-      "space_id": 2547118,
-      "section_name": "積木模組（Building Blocks）"
-    },
-    {
-      "title": "2.7 圖片插入：一圖勝千言",
-      "url": "https://member.pathunfold.com/c/skill/sections/957610/lessons/3630429",
-      "date": "2026-03-22T02:18:36.266Z",
-      "type": "lesson",
-      "space_name": "自動打字機(板書)Skill",
-      "space_id": 2547118,
-      "section_name": "積木模組（Building Blocks）"
-    },
-    {
-      "title": "2.6 檔案切換：翻到新一頁",
-      "url": "https://member.pathunfold.com/c/skill/sections/957610/lessons/3630428",
-      "date": "2026-03-22T02:18:35.651Z",
-      "type": "lesson",
-      "space_name": "自動打字機(板書)Skill",
-      "space_id": 2547118,
-      "section_name": "積木模組（Building Blocks）"
-    },
-    {
-      "title": "2.5 中文輸入法：斟酌用詞",
-      "url": "https://member.pathunfold.com/c/skill/sections/957610/lessons/3630427",
-      "date": "2026-03-22T02:18:35.046Z",
-      "type": "lesson",
-      "space_name": "自動打字機(板書)Skill",
-      "space_id": 2547118,
-      "section_name": "積木模組（Building Blocks）"
-    },
-    {
-      "title": "2.4 Emoji 搜尋面板：情緒印章",
-      "url": "https://member.pathunfold.com/c/skill/sections/957610/lessons/3630426",
-      "date": "2026-03-22T02:18:34.458Z",
-      "type": "lesson",
-      "space_name": "自動打字機(板書)Skill",
-      "space_id": 2547118,
-      "section_name": "積木模組（Building Blocks）"
-    },
-    {
-      "title": "2.3 刪除線：敘事反轉",
-      "url": "https://member.pathunfold.com/c/skill/sections/957610/lessons/3630425",
-      "date": "2026-03-22T02:18:33.891Z",
-      "type": "lesson",
-      "space_name": "自動打字機(板書)Skill",
-      "space_id": 2547118,
-      "section_name": "積木模組（Building Blocks）"
-    },
-    {
-      "title": "2.2 鬼影文字：預見力",
-      "url": "https://member.pathunfold.com/c/skill/sections/957610/lessons/3630424",
-      "date": "2026-03-22T02:18:33.288Z",
-      "type": "lesson",
-      "space_name": "自動打字機(板書)Skill",
-      "space_id": 2547118,
-      "section_name": "積木模組（Building Blocks）"
-    },
-    {
-      "title": "2.1 四種打字速度 = 四種情緒",
-      "url": "https://member.pathunfold.com/c/skill/sections/957610/lessons/3630423",
-      "date": "2026-03-22T02:18:32.661Z",
-      "type": "lesson",
-      "space_name": "自動打字機(板書)Skill",
-      "space_id": 2547118,
-      "section_name": "積木模組（Building Blocks）"
-    },
-    {
-      "title": "Typewriter Video 是什麼：效果展示",
-      "url": "https://member.pathunfold.com/c/skill/sections/957609/lessons/3630422",
-      "date": "2026-03-22T02:18:32.070Z",
-      "type": "lesson",
-      "space_name": "自動打字機(板書)Skill",
-      "space_id": 2547118,
-      "section_name": "歡迎"
     },
     {
       "title": "1.1 Typewriter Video和Building Blocks(13 videos)",
