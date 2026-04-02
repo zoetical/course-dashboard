@@ -52,6 +52,12 @@ const EXCLUDED_SPACE_IDS = new Set([
   2483936,  // Build With Us: Mini Hackathon
   2453584,  // 迷你公開課 (handled as post space)
   2205110,  // 快速課程 (handled as post space)
+  2547118,  // 自動打字機(板書)Skill（免費資源空間組）
+]);
+
+// Space groups to EXCLUDE — all spaces under these groups are excluded
+const EXCLUDED_SPACE_GROUP_NAMES = new Set([
+  '免費資源',
 ]);
 
 // How many days of history to fetch (set high to include all courses)
@@ -234,6 +240,13 @@ async function discoverCourseSpaces(token) {
   for (const space of allSpaces) {
     // Skip excluded spaces
     if (EXCLUDED_SPACE_IDS.has(space.id)) continue;
+
+    // Skip spaces belonging to excluded space groups
+    const groupName = space.space_group_name || '';
+    if (EXCLUDED_SPACE_GROUP_NAMES.has(groupName)) {
+      console.log(`    ⏭️  Skipping「${space.name}」(in excluded group「${groupName}」)`);
+      continue;
+    }
     
     // Include spaces that are course-type (have lessons)
     // Circle API returns space_type or we can check if it has course features
