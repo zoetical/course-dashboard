@@ -1,0 +1,48 @@
+name: Weekly Course Update Post
+
+on:
+  schedule:
+    # Every Friday at 11:00 UTC = 19:00 UTC+8
+    - cron: '0 11 * * 5'
+  workflow_dispatch:
+    inputs:
+      auto_publish:
+        description: 'Auto-publish (true) or draft (false)'
+        required: false
+        default: 'false'
+
+jobs:
+  post-update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      # Step 1: Refresh courses.json first (ensure latest data)
+      - name: Refresh course data
+        env:
+          CIRCLE_V2_TOKEN: ${{ secrets.CIRCLE_V2_TOKEN }}
+        run: node scripts/fetch-courses.js
+
+      # Step 2: Commit refreshed data
+      - name: Commit refreshed data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add public/data/courses.json
+          git diff --cached --quiet || git commit -m "chore: refresh course data [skip ci]"
+          git push
+
+      # Step 3: Create weekly update post
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Create weekly course update post
+        env:
+          CIRCLE_V2_TOKEN: ${{ secrets.CIRCLE_V2_TOKEN }}
+          AUTO_PUBLISH: ${{ github.event.inputs.auto_publish || 'false' }}
+        run: python scripts/weekly-update.py
