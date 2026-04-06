@@ -33,7 +33,7 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add public/data/courses.json
-          git diff --cached --quiet || git commit -m "chore: refresh course data [skip ci]"
+          git diff --cached --quiet || git commit -m "chore: refresh course data"
           git push
 
       # Step 3: Create weekly update post
